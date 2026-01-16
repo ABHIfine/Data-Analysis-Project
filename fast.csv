@@ -1,1001 +1,1001 @@
 Customer-id,name,Age,City,Category,Amount,Rating
-1,yogesh,77,jaipur,full stack developer,748,3.6
-2,yogesh,30,mumbai,full stack developer,723,2.7
-3,ravi,38,jaipur,full stack developer,955,3.2
-4,lucky,73,delhi,business,207,3.8
-5,deepak,88,sikar,full stack developer,343,4.1
-6,lokendra,22,ajmer,full stack developer,631,3.1
-7,gopal,78,mumbai,business,554,1.2
-8,lucky,80,mumbai,sports,763,4.0
-9,himanshu,25,jaipur,full stack developer,461,3.9
-10,gopal,77,ajmer,teacher,834,4.3
-11,gopal,49,ajmer,sports,556,3.8
-12,yogesh,26,jaipur,full stack developer,597,4.1
-13,gopal,41,sikar,teacher,178,3.4
-14,yogesh,36,mumbai,business,691,1.2
-15,ravi,61,jaipur,sports,718,2.6
-16,abhishek,31,mumbai,full stack developer,972,3.1
-17,deepu,58,mumbai,business,640,1.3
-18,lucky,59,delhi,full stack developer,364,2.7
-19,deepak,70,sikar,full stack developer,394,1.0
-20,himanshu,29,jaipur,sports,177,4.3
-21,deepak,70,mumbai,business,698,1.3
-22,ravi,27,ajmer,full stack developer,213,3.6
-23,gopal,27,delhi,business,285,2.9
-24,lokendra,64,goa,it,591,1.5
-25,ravi,21,ajmer,sports,743,1.5
-26,yogesh,24,sikar,full stack developer,557,1.6
-27,abhi,23,sikar,business,469,4.5
-28,lokendra,21,mumbai,business,633,1.1
-29,himanshu,20,ajmer,it,800,5.0
-30,gopal,69,mumbai,full stack developer,197,3.7
-31,himanshu,30,sikar,it,894,1.9
-32,abhishek,89,sikar,sports,126,2.7
-33,abhishek,35,ajmer,full stack developer,424,1.8
-34,lucky,70,goa,it,211,2.8
-35,himanshu,44,mumbai,full stack developer,547,1.2
-36,ravi,50,goa,teacher,282,1.9
-37,deepak,72,sikar,full stack developer,794,4.0
-38,lucky,36,goa,sports,316,1.1
-39,abhi,29,mumbai,full stack developer,405,2.1
-40,yogesh,78,delhi,business,958,4.9
-41,himanshu,75,delhi,full stack developer,369,2.9
-42,lokendra,23,ajmer,teacher,716,2.8
-43,abhishek,46,ajmer,it,226,3.5
-44,abhi,58,jaipur,it,216,3.7
-45,deepu,55,jaipur,full stack developer,398,4.0
-46,abhi,59,sikar,sports,658,2.6
-47,deepu,43,mumbai,business,677,2.4
-48,abhishek,82,sikar,sports,122,4.8
-49,gopal,26,goa,full stack developer,329,2.0
-50,gopal,63,ajmer,sports,859,2.3
-51,abhishek,45,mumbai,it,350,1.4
-52,deepu,41,sikar,business,221,3.6
-53,lokendra,66,delhi,it,395,1.4
-54,ravi,75,mumbai,full stack developer,101,3.6
-55,deepak,40,sikar,business,491,4.1
-56,abhishek,79,mumbai,full stack developer,275,4.7
-57,gopal,87,sikar,sports,851,2.9
-58,lucky,74,delhi,business,902,1.1
-59,deepak,78,sikar,full stack developer,157,1.2
-60,lokendra,49,jaipur,sports,340,2.1
-61,lokendra,49,sikar,teacher,187,1.3
-62,deepu,39,goa,business,670,2.2
-63,gopal,59,delhi,it,624,3.2
-64,ravi,79,delhi,it,154,3.0
-65,gopal,69,goa,it,470,2.0
-66,deepu,50,goa,it,666,2.1
-67,lokendra,88,goa,teacher,797,5.0
-68,deepu,25,jaipur,business,141,1.4
-69,ravi,89,mumbai,full stack developer,364,2.8
-70,ravi,22,delhi,it,649,4.4
-71,lokendra,86,delhi,sports,387,1.9
-72,lucky,66,jaipur,sports,989,3.4
-73,ravi,22,mumbai,business,562,2.1
-74,yogesh,69,delhi,sports,936,2.7
-75,abhishek,65,goa,teacher,647,1.5
-76,lucky,28,ajmer,business,140,3.5
-77,deepak,59,ajmer,teacher,656,2.9
-78,abhishek,23,goa,teacher,635,2.0
-79,gopal,61,ajmer,it,877,2.5
-80,abhi,48,goa,business,323,3.5
-81,lokendra,48,ajmer,full stack developer,998,1.9
-82,lucky,24,delhi,full stack developer,935,1.2
-83,gopal,62,sikar,full stack developer,609,3.7
-84,gopal,41,jaipur,full stack developer,113,1.9
-85,lokendra,26,sikar,full stack developer,754,2.6
-86,deepak,22,goa,it,738,4.2
-87,deepu,72,mumbai,business,488,1.8
-88,abhi,84,mumbai,teacher,842,4.0
-89,lucky,35,jaipur,full stack developer,282,1.1
-90,abhishek,48,delhi,it,364,4.1
-91,yogesh,78,delhi,business,298,1.4
-92,gopal,43,mumbai,it,675,4.6
-93,deepu,62,delhi,business,871,3.0
-94,deepu,51,goa,sports,269,2.9
-95,ravi,75,ajmer,full stack developer,535,2.2
-96,deepak,81,sikar,business,547,2.9
-97,deepu,40,goa,full stack developer,212,3.3
-98,deepak,46,goa,teacher,351,2.3
-99,yogesh,30,jaipur,business,784,4.2
-100,ravi,50,sikar,teacher,802,3.9
-101,himanshu,62,jaipur,teacher,783,1.5
-102,deepu,39,mumbai,sports,369,3.1
-103,ravi,19,sikar,teacher,106,4.7
-104,lucky,75,jaipur,sports,436,2.2
-105,himanshu,27,jaipur,sports,815,4.8
-106,lucky,68,sikar,teacher,634,2.4
-107,abhi,79,mumbai,sports,803,3.4
-108,abhi,37,goa,full stack developer,273,1.6
-109,abhi,49,ajmer,sports,362,2.9
-110,lokendra,47,delhi,business,310,4.3
-111,gopal,64,mumbai,full stack developer,743,1.9
-112,abhishek,73,goa,sports,313,2.4
-113,lokendra,83,delhi,teacher,603,4.3
-114,gopal,35,sikar,teacher,816,2.2
-115,lokendra,89,mumbai,business,602,1.5
-116,abhi,71,goa,it,506,3.4
-117,ravi,54,jaipur,full stack developer,903,2.4
-118,lokendra,40,jaipur,it,542,4.6
-119,deepu,47,sikar,sports,609,2.1
-120,ravi,41,ajmer,full stack developer,751,1.0
-121,yogesh,46,goa,business,184,2.4
-122,lucky,31,sikar,teacher,147,2.0
-123,yogesh,30,sikar,business,503,1.5
-124,gopal,55,jaipur,teacher,988,1.3
-125,abhi,31,delhi,sports,778,3.5
-126,abhi,30,goa,it,144,3.0
-127,deepu,48,jaipur,full stack developer,149,3.8
-128,himanshu,74,mumbai,sports,635,3.8
-129,abhishek,74,goa,teacher,139,1.7
-130,gopal,46,delhi,it,880,5.0
-131,yogesh,22,jaipur,sports,659,2.7
-132,lucky,77,delhi,it,322,4.0
-133,deepu,89,goa,full stack developer,707,1.9
-134,abhi,65,goa,teacher,822,4.9
-135,lokendra,30,ajmer,teacher,267,3.3
-136,deepak,75,mumbai,full stack developer,620,4.5
-137,ravi,84,sikar,teacher,636,3.1
-138,ravi,55,delhi,teacher,670,3.7
-139,gopal,79,jaipur,it,824,1.1
-140,yogesh,52,mumbai,business,253,4.6
-141,yogesh,89,mumbai,full stack developer,704,1.8
-142,himanshu,81,mumbai,sports,313,4.0
-143,yogesh,74,goa,business,859,2.6
-144,lucky,36,mumbai,it,509,3.4
-145,deepu,33,goa,sports,312,3.4
-146,lucky,56,jaipur,full stack developer,248,1.5
-147,lokendra,72,sikar,teacher,242,3.4
-148,abhishek,43,ajmer,full stack developer,903,3.3
-149,yogesh,70,mumbai,teacher,908,3.3
-150,gopal,27,mumbai,full stack developer,338,3.6
-151,deepu,44,sikar,business,580,2.9
-152,yogesh,30,ajmer,full stack developer,149,3.4
-153,yogesh,45,jaipur,business,693,2.7
-154,deepu,48,ajmer,full stack developer,481,2.8
-155,lokendra,56,goa,teacher,905,1.9
-156,abhi,76,sikar,business,331,2.4
-157,abhishek,43,ajmer,business,162,1.8
-158,abhishek,21,ajmer,full stack developer,385,3.4
-159,himanshu,29,jaipur,teacher,389,4.5
-160,abhi,85,goa,full stack developer,395,2.0
-161,deepu,38,jaipur,sports,107,4.7
-162,ravi,82,sikar,it,763,1.5
-163,himanshu,53,goa,it,365,3.7
-164,ravi,61,ajmer,it,448,5.0
-165,himanshu,18,jaipur,teacher,526,4.6
-166,lokendra,82,sikar,sports,755,3.8
-167,abhi,66,goa,sports,742,1.7
-168,abhi,55,goa,teacher,192,3.3
-169,deepak,83,jaipur,full stack developer,232,2.4
-170,yogesh,89,ajmer,full stack developer,293,3.5
-171,lokendra,58,ajmer,sports,240,3.7
-172,gopal,51,goa,sports,313,3.1
-173,himanshu,24,ajmer,full stack developer,338,1.3
-174,lucky,79,ajmer,it,719,4.1
-175,yogesh,18,delhi,full stack developer,241,3.6
-176,lucky,40,mumbai,it,295,4.4
-177,ravi,26,ajmer,teacher,119,4.1
-178,abhi,39,delhi,full stack developer,766,4.6
-179,yogesh,66,goa,sports,156,3.8
-180,ravi,30,ajmer,full stack developer,165,1.1
-181,deepak,20,mumbai,sports,241,3.1
-182,deepu,65,mumbai,sports,561,4.1
-183,lucky,19,mumbai,sports,871,1.1
-184,abhishek,74,goa,business,264,4.5
-185,deepu,24,ajmer,sports,141,3.6
-186,lucky,78,goa,teacher,675,1.5
-187,yogesh,62,jaipur,teacher,840,3.5
-188,gopal,82,sikar,teacher,246,2.9
-189,gopal,28,sikar,sports,190,3.0
-190,abhi,59,sikar,sports,589,2.4
-191,yogesh,77,mumbai,teacher,246,3.8
-192,deepak,65,mumbai,business,861,3.3
-193,gopal,74,jaipur,teacher,549,4.3
-194,ravi,25,ajmer,sports,817,5.0
-195,lokendra,38,ajmer,business,966,5.0
-196,abhi,37,sikar,sports,119,4.4
-197,lokendra,28,ajmer,full stack developer,253,4.5
-198,abhi,31,ajmer,full stack developer,354,1.5
-199,lucky,28,delhi,it,218,3.2
-200,abhi,41,sikar,business,164,3.6
-201,deepak,46,jaipur,business,545,2.9
-202,abhishek,49,delhi,it,241,2.2
-203,ravi,58,ajmer,business,555,4.1
-204,abhi,34,delhi,full stack developer,680,2.3
-205,gopal,36,ajmer,full stack developer,852,4.2
-206,lokendra,66,sikar,it,105,3.5
-207,deepak,88,sikar,teacher,500,4.8
-208,lucky,22,delhi,sports,975,1.4
-209,abhi,57,goa,teacher,755,4.4
-210,yogesh,54,goa,business,713,4.4
-211,abhishek,32,jaipur,sports,325,1.2
-212,abhishek,80,ajmer,teacher,569,1.5
-213,lokendra,54,sikar,business,617,2.4
-214,ravi,43,delhi,business,198,1.4
-215,deepak,54,sikar,teacher,154,2.1
-216,gopal,52,delhi,sports,799,4.3
-217,ravi,24,delhi,sports,831,1.1
-218,abhishek,26,sikar,full stack developer,780,2.3
-219,ravi,33,goa,business,541,1.5
-220,deepu,28,goa,it,947,1.2
-221,yogesh,52,jaipur,it,595,5.0
-222,deepak,28,mumbai,it,185,3.7
-223,gopal,75,jaipur,business,687,4.1
-224,deepak,85,ajmer,business,746,3.7
-225,lokendra,46,ajmer,teacher,665,2.5
-226,abhishek,86,ajmer,it,304,4.0
-227,himanshu,57,ajmer,teacher,844,1.9
-228,gopal,70,sikar,sports,283,2.4
-229,yogesh,19,sikar,full stack developer,683,1.3
-230,lucky,73,goa,teacher,337,2.3
-231,lucky,38,sikar,teacher,251,2.3
-232,deepak,59,jaipur,sports,350,2.6
-233,himanshu,66,ajmer,sports,904,4.4
-234,abhi,36,jaipur,it,871,3.4
-235,abhi,24,goa,teacher,499,3.0
-236,abhishek,42,ajmer,full stack developer,247,1.8
-237,deepu,64,delhi,it,714,4.8
-238,abhi,89,goa,sports,755,1.7
-239,gopal,35,jaipur,business,455,4.6
-240,abhi,52,delhi,sports,211,4.1
-241,ravi,54,goa,business,470,2.0
-242,gopal,87,jaipur,full stack developer,582,2.3
-243,yogesh,88,jaipur,sports,484,2.5
-244,lucky,54,jaipur,teacher,121,3.3
-245,ravi,53,goa,teacher,986,1.4
-246,abhi,74,goa,sports,123,3.9
-247,himanshu,27,delhi,it,573,2.8
-248,yogesh,23,ajmer,it,284,3.4
-249,yogesh,27,mumbai,full stack developer,285,1.9
-250,deepu,35,ajmer,business,693,2.4
-251,yogesh,54,jaipur,business,476,3.1
-252,deepak,82,goa,sports,645,3.0
-253,lokendra,74,delhi,teacher,251,1.6
-254,gopal,73,mumbai,business,690,4.3
-255,abhi,57,sikar,full stack developer,300,4.5
-256,deepu,38,jaipur,sports,782,3.6
-257,lokendra,71,mumbai,sports,320,3.5
-258,abhishek,83,ajmer,business,885,1.9
-259,abhi,44,goa,full stack developer,124,3.6
-260,gopal,36,mumbai,it,867,2.8
-261,ravi,31,sikar,teacher,382,3.1
-262,deepu,60,delhi,full stack developer,677,3.6
-263,ravi,35,mumbai,sports,386,3.5
-264,lokendra,66,goa,business,736,3.6
-265,abhishek,24,ajmer,business,751,1.9
-266,abhi,21,delhi,full stack developer,484,2.9
-267,yogesh,50,mumbai,it,971,3.2
-268,abhi,54,goa,full stack developer,931,2.5
-269,ravi,21,delhi,teacher,357,4.0
-270,lokendra,78,jaipur,full stack developer,978,3.7
-271,lucky,54,sikar,full stack developer,748,2.3
-272,lucky,86,delhi,business,646,1.1
-273,deepak,60,delhi,teacher,914,2.1
-274,gopal,66,mumbai,teacher,787,4.0
-275,himanshu,58,ajmer,full stack developer,715,3.8
-276,deepu,50,sikar,business,419,3.8
-277,yogesh,68,ajmer,sports,385,2.2
-278,yogesh,46,goa,business,274,3.0
-279,himanshu,22,jaipur,teacher,349,2.5
-280,abhi,48,mumbai,full stack developer,106,4.9
-281,yogesh,47,jaipur,teacher,484,3.7
-282,lokendra,44,sikar,business,450,4.3
-283,lokendra,19,sikar,sports,483,1.1
-284,ravi,65,goa,it,311,3.5
-285,deepak,27,sikar,teacher,882,4.3
-286,yogesh,31,delhi,business,453,1.9
-287,deepak,68,sikar,teacher,567,3.1
-288,yogesh,75,ajmer,it,777,2.8
-289,abhishek,62,ajmer,it,878,2.4
-290,ravi,70,delhi,teacher,645,3.9
-291,himanshu,41,mumbai,teacher,339,2.0
-292,deepak,41,goa,full stack developer,573,2.5
-293,gopal,80,goa,business,487,1.5
-294,abhishek,63,mumbai,sports,431,4.0
-295,yogesh,87,jaipur,teacher,211,2.2
-296,deepu,34,mumbai,it,672,4.0
-297,abhishek,53,jaipur,business,651,3.3
-298,gopal,69,ajmer,it,718,3.5
-299,lokendra,31,jaipur,sports,723,1.3
-300,himanshu,28,goa,it,648,4.0
-301,yogesh,27,jaipur,it,312,2.0
-302,gopal,29,jaipur,full stack developer,899,3.3
-303,abhi,53,jaipur,teacher,846,5.0
-304,deepak,39,mumbai,it,668,3.9
-305,gopal,50,mumbai,it,184,1.2
-306,abhishek,44,jaipur,it,395,4.3
-307,abhi,44,sikar,business,231,4.4
-308,yogesh,61,jaipur,full stack developer,962,3.8
-309,ravi,39,jaipur,teacher,286,1.8
-310,gopal,88,ajmer,full stack developer,151,1.7
-311,gopal,23,delhi,teacher,220,4.4
-312,deepak,51,mumbai,teacher,787,1.0
-313,lucky,50,mumbai,it,790,3.1
-314,deepak,81,sikar,it,382,4.9
-315,yogesh,51,delhi,full stack developer,573,4.7
-316,gopal,36,mumbai,it,323,2.5
-317,gopal,39,jaipur,full stack developer,648,3.9
-318,himanshu,58,delhi,teacher,135,3.2
-319,deepak,38,goa,full stack developer,732,4.5
-320,lokendra,34,mumbai,it,861,4.3
-321,lokendra,18,ajmer,full stack developer,336,1.9
-322,ravi,72,delhi,sports,951,1.8
-323,yogesh,41,mumbai,full stack developer,393,4.6
-324,himanshu,27,delhi,business,218,4.1
-325,lokendra,64,jaipur,full stack developer,167,1.9
-326,lucky,79,delhi,it,819,3.4
-327,yogesh,24,ajmer,teacher,502,2.1
-328,himanshu,30,jaipur,sports,707,2.5
-329,deepak,22,sikar,sports,732,1.2
-330,deepu,44,sikar,sports,845,2.9
-331,deepu,42,goa,full stack developer,606,2.2
-332,lokendra,34,goa,sports,745,2.1
-333,himanshu,63,jaipur,it,393,1.8
-334,ravi,32,ajmer,teacher,771,3.7
-335,himanshu,34,goa,it,905,1.3
-336,deepu,30,delhi,it,446,3.9
-337,gopal,79,mumbai,it,227,1.5
-338,ravi,66,ajmer,it,608,4.4
-339,ravi,69,sikar,it,420,1.1
-340,gopal,89,goa,it,170,3.4
-341,deepak,86,sikar,business,674,4.0
-342,lokendra,74,delhi,teacher,672,3.8
-343,ravi,46,delhi,it,819,1.2
-344,ravi,84,jaipur,teacher,691,4.9
-345,ravi,19,jaipur,teacher,776,1.9
-346,yogesh,66,ajmer,sports,484,3.6
-347,deepu,68,goa,full stack developer,412,2.3
-348,deepu,38,ajmer,it,453,3.9
-349,yogesh,44,delhi,sports,488,3.4
-350,ravi,18,mumbai,sports,704,4.3
-351,lucky,57,delhi,sports,992,1.5
-352,deepak,84,ajmer,it,332,4.4
-353,abhishek,55,ajmer,sports,898,4.0
-354,ravi,32,jaipur,it,924,2.9
-355,gopal,81,goa,business,632,1.4
-356,deepak,77,goa,business,926,2.5
-357,deepu,38,sikar,it,154,3.1
-358,yogesh,67,ajmer,sports,305,2.9
-359,himanshu,76,mumbai,full stack developer,387,4.7
-360,abhishek,36,mumbai,sports,820,2.3
-361,gopal,61,sikar,it,323,3.1
-362,abhishek,39,goa,business,891,3.3
-363,abhi,72,mumbai,business,265,1.4
-364,gopal,19,ajmer,sports,514,1.6
-365,abhi,54,jaipur,it,675,2.3
-366,ravi,22,goa,teacher,333,4.2
-367,himanshu,51,mumbai,teacher,937,4.7
-368,deepu,46,ajmer,sports,182,3.2
-369,ravi,22,delhi,business,637,2.8
-370,deepak,70,jaipur,business,673,3.7
-371,deepak,25,goa,teacher,629,4.5
-372,deepu,26,sikar,full stack developer,715,4.3
-373,lucky,48,sikar,full stack developer,586,4.9
-374,abhi,64,delhi,business,424,3.9
-375,deepu,21,jaipur,sports,460,2.9
-376,lucky,42,mumbai,full stack developer,582,1.7
-377,abhi,86,goa,full stack developer,662,2.9
-378,abhishek,52,goa,teacher,543,2.1
-379,abhishek,69,sikar,full stack developer,776,4.7
-380,abhishek,57,goa,full stack developer,688,2.8
-381,himanshu,33,sikar,it,168,3.2
-382,himanshu,55,delhi,business,681,2.1
-383,abhishek,83,sikar,business,277,1.4
-384,himanshu,30,mumbai,sports,309,1.7
-385,gopal,36,mumbai,full stack developer,651,3.8
-386,ravi,21,mumbai,teacher,911,3.7
-387,abhishek,75,delhi,full stack developer,554,4.3
-388,ravi,63,delhi,full stack developer,751,2.7
-389,abhishek,65,jaipur,teacher,823,1.0
-390,deepu,53,goa,sports,823,2.1
-391,yogesh,60,mumbai,it,427,4.0
-392,ravi,54,goa,full stack developer,442,3.1
-393,deepak,34,goa,full stack developer,221,4.2
-394,deepu,29,jaipur,teacher,322,5.0
-395,himanshu,79,jaipur,business,742,1.2
-396,gopal,66,sikar,it,301,1.8
-397,yogesh,24,delhi,sports,747,2.7
-398,abhi,55,delhi,it,133,3.6
-399,abhi,19,delhi,business,272,2.3
-400,himanshu,21,sikar,business,777,3.2
-401,lokendra,59,jaipur,full stack developer,596,4.2
-402,lucky,43,mumbai,business,143,4.4
-403,gopal,56,goa,teacher,311,4.4
-404,ravi,50,goa,teacher,167,1.2
-405,deepak,49,sikar,sports,546,1.2
-406,gopal,76,delhi,it,304,4.6
-407,lucky,23,ajmer,teacher,680,1.3
-408,gopal,38,ajmer,teacher,835,1.7
-409,ravi,37,jaipur,full stack developer,287,1.5
-410,ravi,58,jaipur,it,920,1.8
-411,himanshu,81,sikar,teacher,894,2.8
-412,lokendra,45,goa,sports,684,4.7
-413,abhi,84,delhi,teacher,619,4.0
-414,deepak,46,ajmer,full stack developer,260,1.5
-415,ravi,44,delhi,sports,742,2.8
-416,himanshu,30,delhi,sports,151,3.1
-417,deepu,55,sikar,teacher,828,2.3
-418,deepak,61,mumbai,full stack developer,178,1.9
-419,yogesh,85,mumbai,full stack developer,792,4.8
-420,yogesh,49,sikar,it,884,3.4
-421,abhishek,47,delhi,sports,573,3.2
-422,lokendra,71,delhi,business,321,4.6
-423,himanshu,53,jaipur,sports,142,2.0
-424,yogesh,61,mumbai,teacher,604,3.0
-425,gopal,81,mumbai,teacher,763,1.9
-426,abhi,59,jaipur,full stack developer,155,1.0
-427,lokendra,18,sikar,sports,864,2.3
-428,lokendra,78,jaipur,full stack developer,384,5.0
-429,ravi,47,goa,it,653,1.3
-430,yogesh,48,mumbai,full stack developer,719,1.2
-431,deepak,34,jaipur,it,422,4.9
-432,deepak,52,delhi,business,763,2.6
-433,abhi,24,goa,it,370,1.5
-434,lucky,43,jaipur,teacher,305,2.2
-435,deepu,86,mumbai,it,532,3.0
-436,yogesh,41,delhi,full stack developer,383,3.9
-437,yogesh,46,delhi,it,724,2.3
-438,yogesh,73,mumbai,sports,423,3.0
-439,deepak,83,sikar,it,876,1.1
-440,gopal,79,sikar,sports,689,1.5
-441,abhishek,50,goa,teacher,247,1.3
-442,yogesh,44,ajmer,it,924,4.7
-443,abhishek,56,jaipur,business,541,3.9
-444,abhishek,39,sikar,business,162,1.2
-445,abhishek,62,mumbai,full stack developer,559,4.8
-446,abhi,42,ajmer,business,976,1.8
-447,deepak,22,sikar,sports,619,3.6
-448,deepu,61,mumbai,teacher,860,3.1
-449,deepu,80,sikar,sports,204,4.0
-450,yogesh,24,ajmer,sports,580,4.7
-451,abhishek,58,ajmer,sports,776,1.7
-452,himanshu,55,sikar,sports,656,4.2
-453,gopal,26,jaipur,full stack developer,483,2.7
-454,deepu,30,goa,sports,822,4.8
-455,deepak,28,ajmer,sports,552,1.6
-456,deepak,25,mumbai,sports,250,1.4
-457,abhishek,50,jaipur,full stack developer,932,1.9
-458,lucky,24,delhi,teacher,352,1.8
-459,lucky,47,sikar,full stack developer,765,4.8
-460,ravi,67,ajmer,business,101,3.0
-461,deepu,79,mumbai,it,596,2.4
-462,deepu,79,ajmer,sports,546,3.2
-463,abhi,27,sikar,sports,761,2.2
-464,himanshu,64,jaipur,business,183,2.7
-465,gopal,73,goa,business,960,1.0
-466,ravi,29,delhi,teacher,824,2.1
-467,deepu,67,goa,sports,842,4.7
-468,lokendra,36,delhi,teacher,751,3.0
-469,himanshu,39,delhi,teacher,100,2.9
-470,yogesh,35,jaipur,it,296,3.6
-471,abhishek,48,mumbai,full stack developer,154,4.8
-472,himanshu,81,goa,full stack developer,499,4.5
-473,deepak,52,ajmer,sports,460,1.5
-474,lokendra,70,jaipur,business,461,2.9
-475,abhi,37,goa,full stack developer,621,4.4
-476,abhi,53,delhi,teacher,108,2.8
-477,deepak,32,delhi,business,286,4.0
-478,himanshu,89,ajmer,full stack developer,591,1.8
-479,gopal,51,sikar,it,405,2.3
-480,abhi,43,jaipur,sports,543,4.2
-481,himanshu,62,goa,teacher,728,3.2
-482,ravi,36,goa,teacher,514,1.9
-483,gopal,87,sikar,full stack developer,405,2.8
-484,gopal,30,goa,business,626,3.6
-485,deepu,23,mumbai,it,207,2.9
-486,yogesh,73,sikar,it,758,3.5
-487,lucky,86,jaipur,business,720,2.4
-488,gopal,56,goa,teacher,416,3.2
-489,abhishek,83,sikar,it,730,3.8
-490,deepu,62,sikar,it,396,3.0
-491,deepu,30,ajmer,sports,773,1.9
-492,abhishek,41,ajmer,teacher,287,2.4
-493,deepu,75,jaipur,it,744,1.9
-494,abhi,77,ajmer,full stack developer,521,4.7
-495,abhi,71,jaipur,teacher,200,2.7
-496,yogesh,30,jaipur,sports,602,1.6
-497,himanshu,86,mumbai,business,842,2.8
-498,deepu,19,mumbai,teacher,316,4.3
-499,deepak,66,jaipur,sports,555,2.5
-500,lokendra,25,jaipur,business,871,2.4
-501,ravi,32,mumbai,sports,863,4.0
-502,deepu,32,jaipur,teacher,120,2.3
-503,lucky,60,goa,full stack developer,918,2.5
-504,deepak,88,jaipur,it,574,3.6
-505,lokendra,66,jaipur,sports,130,4.2
-506,gopal,83,mumbai,full stack developer,364,1.4
-507,yogesh,84,ajmer,sports,983,4.6
-508,yogesh,61,ajmer,full stack developer,713,2.8
-509,abhishek,30,goa,full stack developer,901,1.6
-510,deepak,33,sikar,full stack developer,203,3.7
-511,abhishek,45,delhi,teacher,280,3.7
-512,himanshu,89,ajmer,business,567,4.7
-513,yogesh,81,jaipur,sports,287,2.8
-514,deepu,79,delhi,full stack developer,391,4.3
-515,lucky,44,goa,full stack developer,744,1.5
-516,ravi,36,ajmer,business,134,2.5
-517,abhishek,58,sikar,business,342,1.7
-518,lokendra,83,goa,business,822,2.7
-519,yogesh,33,delhi,business,945,3.8
-520,ravi,45,sikar,business,624,2.4
-521,himanshu,76,goa,business,638,1.0
-522,lucky,28,ajmer,sports,767,4.3
-523,abhishek,84,ajmer,it,809,1.7
-524,gopal,79,sikar,business,551,1.5
-525,ravi,41,jaipur,sports,430,4.8
-526,abhishek,34,ajmer,business,885,3.3
-527,deepak,53,mumbai,it,116,3.5
-528,gopal,84,delhi,full stack developer,968,2.4
-529,deepu,19,goa,business,957,3.3
-530,ravi,89,delhi,business,794,2.4
-531,abhishek,20,jaipur,teacher,340,4.7
-532,himanshu,61,goa,teacher,884,1.9
-533,abhishek,57,goa,sports,129,4.9
-534,yogesh,29,jaipur,full stack developer,371,4.9
-535,gopal,23,mumbai,full stack developer,632,2.6
-536,gopal,56,jaipur,full stack developer,437,3.6
-537,lucky,39,mumbai,it,493,4.4
-538,abhishek,51,mumbai,business,821,3.5
-539,deepak,31,mumbai,sports,906,4.5
-540,abhishek,45,delhi,business,642,3.4
-541,lokendra,64,jaipur,sports,509,1.4
-542,deepak,83,jaipur,teacher,596,1.6
-543,abhi,75,mumbai,full stack developer,317,3.0
-544,ravi,65,sikar,full stack developer,106,1.5
-545,abhi,41,delhi,sports,354,3.8
-546,deepak,27,mumbai,teacher,671,1.0
-547,lucky,68,mumbai,sports,302,2.7
-548,abhi,61,delhi,full stack developer,925,4.3
-549,lokendra,28,ajmer,teacher,327,3.8
-550,yogesh,66,mumbai,full stack developer,930,2.0
-551,himanshu,18,ajmer,teacher,122,4.8
-552,yogesh,31,jaipur,full stack developer,447,4.6
-553,himanshu,23,goa,teacher,722,4.6
-554,lokendra,71,delhi,full stack developer,430,4.7
-555,lucky,76,delhi,teacher,176,2.5
-556,deepu,24,mumbai,business,252,2.7
-557,abhishek,65,goa,it,547,3.0
-558,abhishek,34,jaipur,sports,579,4.5
-559,abhishek,85,ajmer,full stack developer,601,2.7
-560,yogesh,33,sikar,it,861,2.2
-561,abhishek,31,sikar,business,804,3.6
-562,ravi,60,goa,it,832,2.8
-563,deepak,24,goa,teacher,593,4.5
-564,abhishek,42,goa,it,410,2.1
-565,yogesh,48,sikar,business,114,1.2
-566,lokendra,88,ajmer,teacher,692,3.7
-567,abhi,64,jaipur,teacher,435,2.8
-568,lucky,33,sikar,full stack developer,846,3.2
-569,himanshu,74,mumbai,business,929,3.4
-570,abhi,54,sikar,teacher,293,3.0
-571,lokendra,69,mumbai,business,218,3.0
-572,lokendra,40,delhi,it,155,4.8
-573,gopal,34,delhi,full stack developer,989,4.8
-574,deepak,59,mumbai,full stack developer,338,3.8
-575,deepu,89,jaipur,full stack developer,354,3.9
-576,ravi,25,ajmer,business,690,1.5
-577,abhishek,84,delhi,teacher,409,5.0
-578,ravi,81,mumbai,teacher,525,2.0
-579,abhi,45,mumbai,teacher,548,4.1
-580,abhi,25,ajmer,teacher,319,2.1
-581,deepu,36,goa,teacher,490,2.5
-582,lokendra,24,mumbai,sports,192,1.2
-583,lucky,69,delhi,business,151,2.5
-584,lokendra,84,ajmer,teacher,529,3.4
-585,gopal,22,sikar,full stack developer,848,1.6
-586,abhi,32,delhi,sports,622,2.6
-587,abhishek,50,jaipur,business,620,3.2
-588,gopal,41,delhi,teacher,759,1.2
-589,lokendra,31,delhi,business,216,2.0
-590,lucky,42,ajmer,teacher,483,2.4
-591,himanshu,42,ajmer,full stack developer,241,2.8
-592,abhishek,81,mumbai,teacher,142,1.7
-593,abhi,31,ajmer,sports,766,1.1
-594,abhishek,72,mumbai,it,874,4.8
-595,deepak,50,jaipur,business,243,3.5
-596,deepak,31,delhi,full stack developer,667,2.2
-597,deepak,63,mumbai,business,758,3.5
-598,ravi,62,jaipur,teacher,909,1.6
-599,gopal,45,mumbai,full stack developer,996,1.2
-600,ravi,55,jaipur,it,675,3.2
-601,himanshu,56,sikar,sports,275,3.6
-602,lucky,40,mumbai,it,144,2.9
-603,ravi,21,sikar,full stack developer,812,3.3
-604,lokendra,19,goa,sports,673,3.8
-605,deepak,20,jaipur,business,474,2.2
-606,abhi,33,sikar,full stack developer,384,4.0
-607,abhishek,38,sikar,sports,439,3.1
-608,abhishek,84,sikar,full stack developer,927,4.1
-609,himanshu,33,jaipur,it,382,4.6
-610,deepu,87,sikar,sports,131,3.5
-611,lucky,25,mumbai,teacher,571,1.3
-612,abhishek,56,jaipur,it,960,4.7
-613,himanshu,33,delhi,business,627,2.7
-614,abhi,30,ajmer,it,718,4.6
-615,ravi,63,jaipur,teacher,809,1.5
-616,abhishek,28,goa,it,242,4.1
-617,deepu,31,goa,teacher,370,3.8
-618,deepak,39,delhi,teacher,228,4.3
-619,abhi,58,sikar,teacher,594,1.2
-620,ravi,69,goa,business,572,2.5
-621,deepu,85,sikar,it,892,2.8
-622,abhishek,53,ajmer,it,353,4.6
-623,deepu,41,sikar,teacher,550,1.8
-624,abhi,46,sikar,sports,756,1.3
-625,yogesh,73,delhi,full stack developer,885,4.2
-626,lucky,24,sikar,teacher,196,2.4
-627,abhishek,23,jaipur,teacher,658,4.1
-628,himanshu,43,delhi,sports,174,4.4
-629,abhishek,67,mumbai,teacher,425,1.4
-630,deepak,68,goa,teacher,491,3.6
-631,yogesh,49,delhi,it,239,1.6
-632,yogesh,21,jaipur,it,332,1.3
-633,deepak,68,goa,teacher,625,2.3
-634,yogesh,77,sikar,business,309,1.2
-635,lucky,56,jaipur,sports,383,4.5
-636,gopal,78,jaipur,sports,731,3.2
-637,lokendra,24,ajmer,full stack developer,212,4.0
-638,gopal,25,jaipur,teacher,976,4.8
-639,himanshu,81,delhi,sports,144,4.4
-640,lucky,29,sikar,full stack developer,573,3.0
-641,abhishek,58,delhi,sports,517,4.9
-642,abhi,38,sikar,full stack developer,573,1.5
-643,himanshu,20,ajmer,teacher,836,4.8
-644,deepak,23,mumbai,sports,501,4.9
-645,himanshu,66,jaipur,business,680,3.0
-646,yogesh,41,ajmer,teacher,265,3.2
-647,gopal,78,jaipur,it,210,1.9
-648,deepak,70,mumbai,business,956,2.5
-649,himanshu,38,jaipur,business,177,1.5
-650,ravi,72,delhi,it,468,4.5
-651,deepu,32,ajmer,it,486,3.5
-652,ravi,41,mumbai,sports,755,2.7
-653,abhishek,37,jaipur,full stack developer,648,2.9
-654,lucky,76,sikar,sports,884,1.1
-655,deepak,33,jaipur,it,586,1.2
-656,deepak,87,goa,sports,325,1.5
-657,lokendra,35,ajmer,full stack developer,793,3.7
-658,gopal,18,mumbai,it,522,1.9
-659,lucky,54,jaipur,sports,541,4.8
-660,abhi,39,sikar,business,404,3.4
-661,deepak,87,delhi,full stack developer,949,1.7
-662,deepak,69,jaipur,full stack developer,934,1.4
-663,yogesh,81,mumbai,full stack developer,263,3.2
-664,yogesh,37,jaipur,full stack developer,515,1.2
-665,deepak,74,mumbai,sports,881,4.0
-666,ravi,89,jaipur,full stack developer,697,2.6
-667,gopal,62,ajmer,it,527,1.2
-668,yogesh,80,jaipur,full stack developer,858,3.2
-669,abhishek,89,delhi,teacher,128,1.5
-670,lokendra,50,goa,full stack developer,594,1.4
-671,ravi,83,delhi,teacher,912,4.8
-672,lucky,57,goa,sports,417,1.7
-673,abhi,89,mumbai,business,392,2.2
-674,gopal,56,mumbai,sports,734,4.7
-675,yogesh,86,mumbai,business,791,4.2
-676,lucky,43,delhi,sports,879,4.8
-677,deepak,39,ajmer,full stack developer,979,2.3
-678,lucky,78,goa,business,455,2.0
-679,deepu,25,goa,sports,320,1.9
-680,gopal,49,sikar,sports,453,3.5
-681,deepu,44,sikar,full stack developer,445,3.3
-682,deepak,63,ajmer,teacher,630,4.6
-683,lucky,70,jaipur,full stack developer,242,4.8
-684,ravi,57,sikar,sports,782,4.9
-685,gopal,46,jaipur,business,621,1.8
-686,deepu,74,sikar,teacher,717,1.5
-687,ravi,83,mumbai,teacher,954,2.8
-688,yogesh,65,sikar,full stack developer,139,1.1
-689,ravi,80,sikar,sports,744,1.1
-690,yogesh,53,goa,sports,670,4.7
-691,lucky,47,ajmer,full stack developer,676,1.7
-692,deepak,74,mumbai,full stack developer,627,2.5
-693,yogesh,88,mumbai,sports,639,4.2
-694,abhi,44,delhi,full stack developer,837,3.2
-695,lokendra,26,goa,it,247,2.5
-696,yogesh,88,delhi,full stack developer,125,3.3
-697,lokendra,79,sikar,full stack developer,808,4.4
-698,yogesh,55,ajmer,it,382,3.7
-699,lucky,68,delhi,sports,924,4.3
-700,lokendra,18,sikar,business,523,3.7
-701,deepak,81,jaipur,business,237,4.7
-702,abhishek,53,sikar,it,660,3.4
-703,lucky,33,ajmer,sports,152,4.9
-704,gopal,51,sikar,teacher,310,3.9
-705,deepak,20,ajmer,teacher,291,2.8
-706,lokendra,54,sikar,sports,979,1.7
-707,deepak,65,sikar,teacher,460,3.0
-708,himanshu,64,delhi,it,362,1.4
-709,ravi,31,sikar,business,359,2.7
-710,abhi,61,ajmer,sports,293,1.5
-711,himanshu,24,goa,full stack developer,262,1.2
-712,lucky,31,delhi,it,446,1.0
-713,abhi,42,ajmer,teacher,134,1.6
-714,himanshu,83,mumbai,it,453,1.7
-715,lucky,51,mumbai,it,577,1.9
-716,deepu,86,goa,business,432,3.9
-717,yogesh,32,ajmer,full stack developer,932,1.0
-718,deepu,66,jaipur,full stack developer,203,3.2
-719,lucky,85,jaipur,it,573,2.4
-720,abhishek,34,delhi,sports,542,3.9
-721,abhi,75,sikar,full stack developer,447,4.3
-722,deepak,46,goa,teacher,987,4.8
-723,deepak,76,mumbai,sports,630,2.7
-724,lucky,76,mumbai,full stack developer,542,1.2
-725,abhishek,18,delhi,sports,619,2.1
-726,lucky,55,jaipur,sports,212,3.4
-727,abhishek,24,delhi,sports,373,1.1
-728,abhishek,85,delhi,it,816,4.2
-729,deepu,64,goa,it,315,4.0
-730,himanshu,30,delhi,it,885,3.3
-731,abhishek,32,ajmer,full stack developer,708,5.0
-732,abhishek,26,jaipur,teacher,783,4.0
-733,lucky,53,jaipur,business,566,4.3
-734,deepu,69,jaipur,teacher,139,1.8
-735,lokendra,76,sikar,teacher,851,4.8
-736,yogesh,71,sikar,it,260,2.6
-737,deepak,88,jaipur,teacher,338,4.4
-738,deepu,77,ajmer,business,321,4.3
-739,abhi,83,sikar,it,859,2.7
-740,lokendra,36,goa,it,189,1.1
-741,ravi,51,sikar,full stack developer,481,1.8
-742,gopal,88,delhi,sports,481,2.1
-743,deepak,63,mumbai,business,947,2.7
-744,himanshu,36,sikar,it,834,4.1
-745,ravi,20,ajmer,sports,877,2.3
-746,abhi,77,delhi,business,252,4.6
-747,gopal,34,sikar,full stack developer,798,4.4
-748,ravi,42,ajmer,it,426,2.2
-749,deepu,48,delhi,full stack developer,585,3.8
-750,lucky,68,jaipur,sports,412,2.0
-751,deepu,27,mumbai,sports,767,1.8
-752,deepak,30,ajmer,it,838,1.6
-753,ravi,46,mumbai,business,674,2.7
-754,abhi,39,ajmer,full stack developer,792,4.4
-755,yogesh,26,goa,business,399,4.0
-756,ravi,46,mumbai,teacher,366,2.2
-757,yogesh,38,mumbai,it,692,4.4
-758,deepak,83,ajmer,sports,473,3.6
-759,lokendra,67,delhi,teacher,128,4.1
-760,deepu,83,sikar,sports,751,3.2
-761,gopal,33,delhi,business,879,1.4
-762,lucky,67,jaipur,full stack developer,272,1.8
-763,abhi,87,ajmer,teacher,818,1.2
-764,ravi,25,goa,teacher,888,4.5
-765,himanshu,86,sikar,business,298,4.0
-766,abhi,66,mumbai,sports,911,4.7
-767,yogesh,72,jaipur,business,141,3.3
-768,ravi,47,mumbai,sports,775,2.0
-769,yogesh,20,sikar,teacher,292,3.8
-770,deepak,27,delhi,teacher,123,2.0
-771,gopal,71,ajmer,sports,866,1.1
-772,lucky,78,delhi,sports,845,4.8
-773,abhi,49,ajmer,business,666,1.5
-774,abhi,51,sikar,business,644,2.3
-775,lucky,26,goa,business,882,3.3
-776,gopal,74,delhi,teacher,288,3.7
-777,deepu,21,ajmer,sports,997,2.0
-778,ravi,70,mumbai,full stack developer,947,2.7
-779,lokendra,89,delhi,it,837,1.1
-780,ravi,72,sikar,sports,472,4.3
-781,lokendra,68,goa,teacher,756,2.3
-782,gopal,65,jaipur,business,347,2.2
-783,deepu,60,delhi,business,803,4.1
-784,lucky,25,jaipur,it,680,4.9
-785,abhishek,78,jaipur,teacher,659,4.5
-786,lucky,28,sikar,sports,297,3.3
-787,abhishek,41,delhi,sports,697,4.8
-788,deepu,58,jaipur,sports,639,2.0
-789,deepak,75,jaipur,teacher,724,1.9
-790,abhishek,88,mumbai,teacher,814,4.0
-791,abhi,50,delhi,teacher,708,4.0
-792,deepu,31,mumbai,it,570,2.4
-793,abhi,55,ajmer,sports,980,4.6
-794,himanshu,63,goa,business,318,3.1
-795,gopal,85,mumbai,teacher,310,2.8
-796,yogesh,44,ajmer,sports,506,3.4
-797,yogesh,84,delhi,sports,571,3.6
-798,deepak,49,jaipur,full stack developer,503,4.3
-799,lucky,85,goa,business,190,1.9
-800,ravi,64,goa,teacher,651,3.4
-801,lokendra,63,goa,business,523,4.8
-802,ravi,59,goa,full stack developer,674,4.7
-803,deepak,84,delhi,business,836,2.7
-804,lokendra,33,goa,it,619,1.1
-805,deepak,59,goa,it,803,1.6
-806,abhishek,74,jaipur,teacher,670,1.9
-807,deepu,63,ajmer,it,832,3.1
-808,ravi,69,delhi,full stack developer,219,1.1
-809,himanshu,84,jaipur,sports,416,3.6
-810,deepak,26,jaipur,it,569,3.2
-811,gopal,54,mumbai,business,926,3.2
-812,abhi,64,jaipur,sports,872,2.2
-813,deepak,61,jaipur,it,336,1.1
-814,abhishek,51,goa,full stack developer,712,4.5
-815,abhi,36,mumbai,teacher,856,1.7
-816,gopal,38,goa,full stack developer,263,3.1
-817,ravi,56,jaipur,full stack developer,545,1.4
-818,ravi,75,mumbai,it,156,3.8
-819,abhishek,85,mumbai,it,702,4.3
-820,lokendra,19,ajmer,sports,443,1.8
-821,yogesh,21,ajmer,sports,729,2.6
-822,deepak,27,ajmer,it,589,4.6
-823,deepu,52,jaipur,business,879,3.7
-824,abhishek,35,goa,sports,171,2.3
-825,himanshu,25,mumbai,sports,819,2.6
-826,deepak,47,delhi,teacher,968,1.2
-827,gopal,22,delhi,teacher,440,2.1
-828,gopal,23,delhi,business,883,1.5
-829,gopal,21,mumbai,business,872,3.4
-830,abhi,40,delhi,full stack developer,391,3.0
-831,deepu,34,jaipur,teacher,271,1.1
-832,lucky,76,jaipur,sports,871,4.6
-833,abhishek,36,jaipur,teacher,348,2.1
-834,lucky,59,ajmer,it,165,4.5
-835,abhishek,25,ajmer,business,685,4.3
-836,lucky,84,goa,business,797,4.7
-837,ravi,19,ajmer,teacher,625,4.8
-838,gopal,53,goa,business,127,2.6
-839,gopal,87,ajmer,teacher,631,3.7
-840,gopal,28,mumbai,business,967,4.0
-841,lucky,58,ajmer,it,636,3.5
-842,ravi,82,delhi,business,869,4.8
-843,gopal,51,mumbai,teacher,991,4.1
-844,abhi,40,ajmer,it,802,4.8
-845,lokendra,61,delhi,it,237,4.5
-846,deepu,52,jaipur,business,786,3.7
-847,deepu,69,delhi,it,664,3.8
-848,deepak,65,delhi,teacher,239,1.7
-849,gopal,71,delhi,sports,250,2.2
-850,deepak,40,ajmer,business,398,4.1
-851,abhi,39,delhi,sports,799,3.0
-852,abhi,45,delhi,sports,269,2.3
-853,ravi,73,goa,teacher,726,4.3
-854,lokendra,37,sikar,sports,894,2.2
-855,lucky,18,sikar,business,158,2.2
-856,gopal,80,jaipur,business,926,2.5
-857,lucky,59,ajmer,business,714,1.7
-858,lucky,60,goa,teacher,216,2.3
-859,gopal,54,mumbai,full stack developer,484,3.5
-860,gopal,88,sikar,sports,413,3.7
-861,gopal,36,goa,business,498,4.6
-862,abhishek,46,ajmer,business,641,2.5
-863,abhishek,71,mumbai,full stack developer,510,1.2
-864,abhishek,33,jaipur,full stack developer,311,3.3
-865,lucky,67,goa,it,210,2.2
-866,lucky,59,jaipur,teacher,663,3.2
-867,lokendra,55,goa,business,971,1.9
-868,deepu,74,ajmer,sports,590,1.0
-869,lucky,54,sikar,business,261,2.9
-870,abhi,52,goa,sports,997,4.9
-871,abhishek,50,sikar,teacher,751,2.5
-872,abhishek,87,mumbai,teacher,633,3.9
-873,abhishek,78,delhi,business,315,1.4
-874,lokendra,86,jaipur,it,428,4.6
-875,himanshu,33,delhi,teacher,114,1.7
-876,abhi,59,ajmer,teacher,223,4.0
-877,himanshu,36,goa,business,256,4.7
-878,lokendra,53,goa,business,536,3.3
-879,abhi,78,mumbai,full stack developer,491,2.5
-880,deepu,25,goa,business,982,2.2
-881,yogesh,21,jaipur,it,189,3.6
-882,gopal,81,ajmer,full stack developer,221,3.9
-883,deepak,63,mumbai,sports,285,1.1
-884,deepu,50,delhi,it,751,3.7
-885,gopal,86,jaipur,teacher,395,2.1
-886,abhishek,74,mumbai,sports,613,3.7
-887,gopal,80,mumbai,sports,743,4.1
-888,abhi,52,goa,teacher,770,4.2
-889,ravi,26,goa,full stack developer,325,4.1
-890,lucky,65,sikar,it,992,1.1
-891,abhi,88,ajmer,business,987,4.1
-892,ravi,81,ajmer,full stack developer,700,2.4
-893,gopal,49,delhi,full stack developer,332,3.8
-894,ravi,89,delhi,business,103,4.5
-895,yogesh,86,delhi,teacher,904,1.5
-896,abhishek,86,delhi,it,207,3.2
-897,ravi,70,ajmer,teacher,243,3.8
-898,deepu,49,goa,business,291,3.3
-899,gopal,83,delhi,teacher,489,5.0
-900,gopal,48,goa,sports,273,4.9
-901,lokendra,49,mumbai,sports,332,3.7
-902,deepu,62,goa,full stack developer,739,4.3
-903,gopal,81,mumbai,it,899,2.3
-904,lucky,43,goa,business,377,2.3
-905,himanshu,46,jaipur,sports,310,4.9
-906,deepak,75,jaipur,sports,898,4.1
-907,deepak,33,jaipur,sports,227,2.0
-908,deepu,57,jaipur,teacher,164,3.8
-909,abhishek,67,mumbai,it,315,2.9
-910,ravi,87,delhi,full stack developer,931,4.2
-911,ravi,42,delhi,full stack developer,630,3.7
-912,yogesh,42,sikar,teacher,507,3.5
-913,deepu,59,mumbai,teacher,684,3.7
-914,lucky,19,jaipur,teacher,785,2.5
-915,himanshu,29,jaipur,business,746,2.1
-916,deepak,44,sikar,sports,859,3.8
-917,lokendra,33,delhi,teacher,738,2.6
-918,abhishek,43,delhi,sports,415,1.3
-919,deepak,24,mumbai,sports,167,4.3
-920,deepak,24,delhi,sports,913,2.1
-921,himanshu,47,delhi,it,735,3.8
-922,ravi,26,mumbai,teacher,958,2.4
-923,lucky,78,jaipur,sports,308,2.5
-924,ravi,63,ajmer,business,377,2.2
-925,abhishek,26,delhi,business,252,1.5
-926,deepak,44,jaipur,teacher,197,3.5
-927,ravi,39,jaipur,it,148,1.0
-928,deepu,78,goa,teacher,604,4.9
-929,himanshu,82,jaipur,full stack developer,306,3.0
-930,ravi,27,sikar,sports,383,1.7
-931,lokendra,65,sikar,full stack developer,460,3.4
-932,yogesh,74,ajmer,teacher,796,1.9
-933,himanshu,72,delhi,teacher,253,3.3
-934,abhi,89,delhi,it,661,2.6
-935,lokendra,31,ajmer,teacher,277,1.9
-936,deepak,59,ajmer,teacher,661,4.4
-937,deepak,63,delhi,it,439,3.5
-938,ravi,64,sikar,it,921,2.0
-939,himanshu,49,mumbai,teacher,755,1.9
-940,deepu,39,sikar,teacher,692,4.4
-941,himanshu,70,jaipur,business,202,1.6
-942,deepak,57,mumbai,sports,934,3.6
-943,ravi,86,ajmer,sports,557,1.4
-944,deepu,85,ajmer,it,266,2.5
-945,deepu,71,mumbai,business,624,2.0
-946,himanshu,20,jaipur,full stack developer,778,2.0
-947,yogesh,25,jaipur,it,773,2.0
-948,gopal,69,delhi,sports,541,3.3
-949,abhi,48,goa,sports,472,2.9
-950,ravi,19,ajmer,it,882,1.2
-951,yogesh,66,sikar,full stack developer,417,2.6
-952,deepu,45,jaipur,full stack developer,789,3.5
-953,deepak,79,goa,it,999,3.9
-954,deepu,71,delhi,teacher,510,2.2
-955,lucky,50,delhi,full stack developer,468,1.4
-956,himanshu,24,sikar,teacher,799,1.2
-957,yogesh,43,delhi,business,717,3.7
-958,abhishek,32,jaipur,teacher,667,2.5
-959,lucky,65,ajmer,full stack developer,393,1.3
-960,deepak,68,ajmer,sports,945,4.3
-961,deepu,83,goa,teacher,977,2.5
-962,yogesh,78,jaipur,it,196,4.1
-963,abhishek,29,delhi,teacher,123,3.9
-964,deepak,29,goa,it,451,2.4
-965,abhi,57,ajmer,it,445,3.4
-966,deepak,77,sikar,sports,532,4.7
-967,lokendra,39,mumbai,sports,653,4.3
-968,lokendra,26,delhi,business,567,5.0
-969,lokendra,44,mumbai,teacher,691,3.0
-970,ravi,50,mumbai,sports,435,3.5
-971,lokendra,75,delhi,sports,710,1.2
-972,abhishek,25,goa,business,410,1.8
-973,deepu,83,mumbai,teacher,118,1.6
-974,deepak,63,sikar,it,136,1.9
-975,abhishek,38,mumbai,full stack developer,168,4.9
-976,deepu,72,jaipur,full stack developer,300,1.4
-977,himanshu,27,goa,it,401,3.2
-978,deepu,80,sikar,business,540,2.8
-979,ravi,52,sikar,full stack developer,564,3.4
-980,abhishek,33,jaipur,teacher,218,2.1
-981,lucky,69,mumbai,it,870,1.3
-982,abhishek,84,ajmer,it,854,1.9
-983,lucky,71,ajmer,teacher,737,3.2
-984,ravi,18,mumbai,business,658,4.5
-985,deepu,48,mumbai,full stack developer,654,1.3
-986,yogesh,89,goa,teacher,104,2.4
-987,deepu,76,delhi,it,481,4.0
-988,lucky,20,jaipur,sports,737,2.9
-989,gopal,26,sikar,business,418,1.4
-990,gopal,35,sikar,full stack developer,297,3.0
-991,yogesh,59,sikar,it,103,4.4
-992,deepak,19,ajmer,full stack developer,774,4.6
-993,lucky,68,ajmer,sports,532,3.1
-994,yogesh,35,mumbai,it,827,1.7
-995,gopal,37,mumbai,full stack developer,300,4.8
-996,abhi,89,jaipur,business,991,2.2
-997,yogesh,87,ajmer,sports,168,2.2
-998,deepu,55,goa,business,189,1.7
-999,deepak,36,delhi,it,815,1.3
-1000,gopal,62,goa,business,623,3.0
+1,lokendra,38,sikar,full stack developer,427,1.3
+2,deepu,23,goa,business,675,3.8
+3,abhishek,25,jaipur,full stack developer,790,2.7
+4,gopal,63,mumbai,business,179,3.1
+5,himanshu,30,goa,full stack developer,503,2.8
+6,lokendra,29,mumbai,teacher,526,4.6
+7,lucky,77,jaipur,it,950,3.4
+8,deepak,57,mumbai,business,900,3.9
+9,lokendra,69,jaipur,sports,364,3.4
+10,yogesh,63,mumbai,full stack developer,557,4.9
+11,deepak,68,sikar,it,700,1.5
+12,ravi,71,delhi,business,731,1.3
+13,yogesh,22,mumbai,it,708,1.6
+14,abhishek,66,sikar,sports,188,3.3
+15,lokendra,23,sikar,sports,618,4.4
+16,lucky,53,delhi,sports,145,2.2
+17,abhishek,22,delhi,business,608,3.0
+18,lokendra,50,jaipur,teacher,312,3.1
+19,abhishek,68,sikar,full stack developer,292,2.1
+20,lucky,25,sikar,full stack developer,335,3.6
+21,gopal,75,ajmer,teacher,218,2.1
+22,yogesh,28,ajmer,it,188,1.2
+23,lokendra,33,mumbai,full stack developer,416,4.8
+24,himanshu,19,sikar,it,266,2.1
+25,ravi,24,sikar,it,212,1.9
+26,gopal,25,ajmer,business,943,1.1
+27,deepu,58,ajmer,it,605,4.3
+28,lokendra,35,jaipur,business,536,4.4
+29,ravi,18,mumbai,teacher,349,2.3
+30,abhishek,51,sikar,teacher,772,3.7
+31,deepak,86,goa,it,119,3.2
+32,deepu,82,goa,sports,459,1.8
+33,ravi,62,jaipur,it,932,4.1
+34,deepu,38,jaipur,full stack developer,202,4.4
+35,abhi,25,goa,business,796,4.4
+36,ravi,28,ajmer,full stack developer,923,3.6
+37,abhishek,69,goa,full stack developer,993,1.9
+38,deepu,21,delhi,business,510,3.3
+39,deepu,50,delhi,full stack developer,183,4.8
+40,abhi,59,ajmer,it,924,3.7
+41,abhishek,54,sikar,teacher,112,4.9
+42,himanshu,80,delhi,business,407,4.0
+43,abhi,18,jaipur,full stack developer,994,2.7
+44,abhi,24,jaipur,full stack developer,576,4.0
+45,ravi,35,delhi,teacher,981,1.6
+46,abhishek,75,ajmer,teacher,254,4.3
+47,deepu,49,delhi,teacher,127,3.7
+48,yogesh,26,delhi,business,851,1.6
+49,ravi,55,goa,teacher,563,1.2
+50,ravi,28,ajmer,teacher,522,1.2
+51,abhishek,57,sikar,full stack developer,182,4.1
+52,ravi,89,sikar,full stack developer,568,2.3
+53,yogesh,35,jaipur,sports,862,3.7
+54,ravi,81,ajmer,full stack developer,119,4.1
+55,yogesh,47,ajmer,teacher,183,1.1
+56,deepu,76,delhi,business,494,2.2
+57,gopal,60,ajmer,sports,909,3.6
+58,yogesh,52,jaipur,sports,202,3.1
+59,himanshu,30,goa,it,634,2.4
+60,deepak,47,jaipur,sports,712,1.4
+61,ravi,79,sikar,sports,360,4.2
+62,ravi,71,goa,sports,978,1.3
+63,deepak,32,ajmer,sports,356,2.1
+64,yogesh,84,goa,teacher,148,3.4
+65,yogesh,82,delhi,full stack developer,766,4.9
+66,yogesh,36,ajmer,sports,379,1.7
+67,yogesh,36,ajmer,full stack developer,111,4.9
+68,yogesh,40,goa,it,378,3.7
+69,ravi,61,ajmer,full stack developer,349,4.3
+70,lucky,43,delhi,teacher,505,3.6
+71,ravi,54,mumbai,teacher,549,1.6
+72,abhishek,45,jaipur,it,718,4.9
+73,himanshu,29,ajmer,full stack developer,953,4.3
+74,deepak,29,jaipur,business,766,3.4
+75,deepu,74,sikar,teacher,912,1.9
+76,lokendra,33,ajmer,sports,774,1.1
+77,gopal,68,mumbai,sports,131,1.3
+78,himanshu,58,sikar,teacher,863,2.7
+79,himanshu,56,sikar,it,763,3.8
+80,ravi,68,sikar,it,474,3.0
+81,lokendra,74,jaipur,sports,715,4.5
+82,yogesh,49,sikar,teacher,642,2.7
+83,ravi,59,sikar,sports,218,1.2
+84,yogesh,89,delhi,full stack developer,134,2.9
+85,abhi,62,delhi,full stack developer,576,1.0
+86,abhi,64,ajmer,full stack developer,146,2.1
+87,lokendra,30,mumbai,it,895,3.9
+88,lucky,57,delhi,business,678,1.9
+89,abhishek,63,ajmer,sports,911,1.4
+90,lucky,49,sikar,sports,253,2.9
+91,deepak,44,mumbai,business,830,1.4
+92,himanshu,36,ajmer,business,700,2.4
+93,abhishek,78,jaipur,it,743,3.9
+94,lucky,37,mumbai,sports,499,2.9
+95,ravi,63,jaipur,business,165,4.8
+96,lucky,46,delhi,full stack developer,451,3.3
+97,deepak,67,delhi,business,392,2.3
+98,lokendra,28,sikar,it,892,3.9
+99,lokendra,58,goa,full stack developer,588,3.5
+100,lokendra,43,ajmer,teacher,568,3.2
+101,gopal,45,mumbai,teacher,250,3.2
+102,yogesh,20,goa,teacher,726,2.6
+103,lucky,48,sikar,full stack developer,646,1.4
+104,abhi,39,goa,business,832,4.0
+105,lokendra,81,goa,teacher,698,3.5
+106,gopal,38,delhi,full stack developer,562,3.9
+107,himanshu,23,jaipur,business,381,2.7
+108,abhi,55,mumbai,it,385,1.1
+109,deepu,57,delhi,sports,377,3.4
+110,lokendra,75,jaipur,full stack developer,188,4.9
+111,gopal,27,ajmer,it,795,4.0
+112,himanshu,76,goa,sports,528,4.0
+113,deepak,48,mumbai,teacher,232,4.6
+114,lucky,54,ajmer,teacher,456,1.4
+115,deepak,57,mumbai,full stack developer,237,2.1
+116,ravi,86,delhi,business,681,3.0
+117,gopal,69,jaipur,it,272,4.2
+118,himanshu,19,mumbai,business,282,1.1
+119,gopal,39,ajmer,teacher,391,2.2
+120,himanshu,59,jaipur,business,212,2.5
+121,abhishek,64,ajmer,it,962,1.5
+122,himanshu,47,mumbai,teacher,232,1.5
+123,gopal,46,ajmer,sports,997,4.3
+124,lokendra,19,jaipur,full stack developer,939,4.3
+125,abhishek,34,jaipur,it,741,4.6
+126,lokendra,69,mumbai,teacher,190,1.7
+127,abhishek,19,jaipur,sports,418,4.2
+128,lokendra,58,ajmer,teacher,641,4.2
+129,abhishek,76,jaipur,full stack developer,573,4.1
+130,deepak,48,delhi,business,133,3.8
+131,gopal,21,mumbai,full stack developer,996,2.6
+132,himanshu,75,goa,full stack developer,402,1.9
+133,ravi,42,goa,teacher,108,3.6
+134,abhi,61,goa,teacher,236,3.2
+135,deepak,23,delhi,business,814,2.4
+136,yogesh,22,sikar,full stack developer,809,3.9
+137,deepak,27,mumbai,teacher,730,4.9
+138,himanshu,67,jaipur,full stack developer,269,2.5
+139,lokendra,59,delhi,business,773,4.7
+140,yogesh,63,sikar,business,390,1.2
+141,lokendra,68,jaipur,it,106,3.3
+142,abhishek,78,mumbai,business,631,3.8
+143,deepu,74,ajmer,it,532,1.5
+144,lucky,25,jaipur,teacher,872,3.9
+145,himanshu,26,mumbai,full stack developer,327,3.8
+146,yogesh,34,sikar,teacher,303,1.3
+147,yogesh,61,mumbai,sports,414,3.7
+148,himanshu,40,mumbai,it,286,1.1
+149,abhi,41,goa,sports,682,3.2
+150,deepu,19,ajmer,business,374,2.3
+151,lokendra,61,sikar,business,849,1.3
+152,gopal,57,ajmer,full stack developer,554,1.9
+153,yogesh,27,jaipur,teacher,826,2.3
+154,deepak,56,mumbai,sports,912,1.7
+155,ravi,37,sikar,it,300,4.9
+156,ravi,65,ajmer,teacher,152,1.1
+157,deepu,34,mumbai,full stack developer,765,3.2
+158,deepu,60,delhi,full stack developer,781,2.0
+159,deepak,85,mumbai,teacher,143,3.2
+160,lucky,38,ajmer,full stack developer,780,1.6
+161,deepu,80,goa,it,213,1.8
+162,ravi,27,jaipur,sports,272,3.6
+163,lokendra,69,delhi,business,573,4.2
+164,ravi,41,mumbai,business,183,1.2
+165,deepak,38,sikar,it,486,4.5
+166,abhishek,85,sikar,full stack developer,679,2.6
+167,abhi,89,ajmer,business,129,4.9
+168,lokendra,75,ajmer,sports,236,1.4
+169,yogesh,27,mumbai,business,154,2.9
+170,gopal,72,goa,teacher,664,3.8
+171,deepak,27,delhi,full stack developer,742,1.8
+172,himanshu,54,goa,sports,409,2.7
+173,lucky,27,delhi,teacher,913,3.8
+174,ravi,65,goa,it,236,1.4
+175,deepak,36,ajmer,business,875,1.9
+176,himanshu,46,jaipur,business,460,3.5
+177,lucky,46,jaipur,full stack developer,670,4.4
+178,yogesh,39,jaipur,full stack developer,875,3.7
+179,gopal,40,delhi,full stack developer,943,1.8
+180,abhi,86,sikar,full stack developer,600,2.9
+181,gopal,66,jaipur,it,843,4.1
+182,deepu,69,jaipur,it,593,2.9
+183,gopal,71,delhi,teacher,542,1.7
+184,deepak,85,delhi,full stack developer,199,2.4
+185,deepu,66,delhi,business,312,3.2
+186,ravi,23,goa,business,926,3.7
+187,yogesh,70,mumbai,teacher,477,3.0
+188,lucky,27,mumbai,full stack developer,889,4.7
+189,abhishek,61,delhi,full stack developer,416,4.0
+190,ravi,20,goa,sports,953,2.8
+191,lokendra,51,delhi,business,129,2.5
+192,himanshu,26,jaipur,sports,885,2.1
+193,gopal,73,ajmer,full stack developer,934,4.3
+194,deepak,73,goa,teacher,715,1.4
+195,abhi,72,delhi,it,547,2.6
+196,abhishek,75,sikar,it,297,1.7
+197,gopal,31,delhi,teacher,924,4.3
+198,abhishek,41,goa,it,627,4.0
+199,deepak,48,delhi,business,231,3.1
+200,abhi,88,mumbai,it,995,2.3
+201,ravi,40,sikar,it,179,4.2
+202,lokendra,55,mumbai,teacher,363,4.2
+203,lokendra,42,delhi,it,277,1.4
+204,himanshu,75,ajmer,business,689,2.4
+205,ravi,42,goa,business,971,1.2
+206,himanshu,61,jaipur,teacher,963,3.0
+207,deepu,46,jaipur,full stack developer,686,4.0
+208,lucky,60,goa,teacher,249,3.6
+209,abhishek,19,sikar,it,901,2.8
+210,lucky,36,goa,it,309,5.0
+211,yogesh,86,mumbai,teacher,779,3.2
+212,ravi,77,mumbai,it,120,3.1
+213,abhi,76,mumbai,business,289,2.7
+214,deepak,58,jaipur,teacher,629,1.2
+215,deepak,52,goa,business,243,2.6
+216,lokendra,74,goa,sports,856,4.1
+217,lokendra,75,ajmer,teacher,703,5.0
+218,lucky,73,jaipur,full stack developer,891,2.4
+219,lokendra,36,jaipur,sports,755,2.8
+220,himanshu,57,mumbai,teacher,202,3.1
+221,deepak,37,delhi,full stack developer,700,1.6
+222,lokendra,67,delhi,business,789,3.2
+223,lokendra,52,sikar,full stack developer,677,2.3
+224,abhishek,65,sikar,sports,967,3.0
+225,lucky,48,mumbai,business,880,2.5
+226,abhi,29,goa,teacher,374,4.8
+227,lokendra,81,mumbai,full stack developer,244,1.3
+228,abhishek,21,sikar,it,752,2.3
+229,abhi,59,sikar,full stack developer,110,2.4
+230,lucky,76,jaipur,full stack developer,587,1.2
+231,gopal,57,delhi,sports,674,2.0
+232,abhi,26,sikar,full stack developer,465,2.8
+233,himanshu,20,delhi,sports,683,1.3
+234,ravi,44,goa,sports,202,2.6
+235,abhishek,28,jaipur,full stack developer,239,3.4
+236,abhi,51,ajmer,teacher,859,4.8
+237,deepak,22,ajmer,business,415,4.5
+238,himanshu,47,ajmer,business,422,3.2
+239,abhi,63,delhi,full stack developer,882,1.7
+240,lucky,69,ajmer,it,810,1.9
+241,abhi,36,jaipur,teacher,702,4.8
+242,abhishek,45,mumbai,business,445,4.5
+243,yogesh,74,jaipur,business,303,3.7
+244,deepu,33,sikar,teacher,217,3.1
+245,deepak,61,sikar,teacher,771,2.7
+246,abhishek,55,sikar,teacher,933,4.3
+247,lucky,32,jaipur,full stack developer,301,4.7
+248,himanshu,37,jaipur,business,784,4.7
+249,deepu,40,mumbai,full stack developer,275,2.8
+250,abhishek,74,goa,it,467,2.4
+251,yogesh,60,ajmer,teacher,198,1.4
+252,himanshu,22,delhi,sports,756,1.2
+253,himanshu,81,delhi,it,512,3.6
+254,deepak,40,mumbai,sports,423,5.0
+255,deepu,61,mumbai,sports,248,2.1
+256,lokendra,35,jaipur,full stack developer,314,4.7
+257,yogesh,64,sikar,sports,745,1.8
+258,gopal,54,jaipur,it,765,3.5
+259,deepu,87,goa,teacher,130,2.1
+260,abhi,39,delhi,sports,622,4.6
+261,himanshu,88,mumbai,full stack developer,583,1.6
+262,himanshu,30,goa,it,404,1.7
+263,abhi,34,delhi,sports,808,3.1
+264,yogesh,88,sikar,teacher,761,1.1
+265,abhi,63,mumbai,sports,968,1.0
+266,lokendra,57,mumbai,teacher,386,1.9
+267,abhi,76,mumbai,full stack developer,470,3.3
+268,ravi,59,ajmer,business,547,4.4
+269,deepak,84,goa,business,908,4.2
+270,gopal,62,delhi,sports,496,1.4
+271,yogesh,28,mumbai,sports,457,2.3
+272,deepak,62,sikar,teacher,991,4.5
+273,deepu,74,delhi,teacher,306,4.8
+274,deepu,81,goa,it,271,1.5
+275,gopal,24,ajmer,it,953,4.4
+276,abhi,55,delhi,full stack developer,934,4.4
+277,lokendra,19,ajmer,full stack developer,732,2.2
+278,ravi,45,sikar,teacher,844,3.6
+279,ravi,88,sikar,full stack developer,762,3.3
+280,deepu,19,mumbai,teacher,216,4.6
+281,ravi,37,mumbai,teacher,962,4.0
+282,gopal,77,goa,it,972,4.5
+283,yogesh,18,goa,it,935,1.7
+284,deepak,86,goa,it,753,1.5
+285,ravi,37,jaipur,teacher,448,2.5
+286,abhi,23,goa,full stack developer,897,3.1
+287,himanshu,69,mumbai,full stack developer,498,4.9
+288,abhishek,42,jaipur,it,381,1.3
+289,yogesh,57,delhi,teacher,580,1.7
+290,abhishek,43,ajmer,full stack developer,601,4.8
+291,lokendra,55,goa,sports,534,1.2
+292,deepak,66,mumbai,sports,405,2.7
+293,lucky,67,goa,it,953,4.1
+294,gopal,52,sikar,sports,315,3.3
+295,lucky,25,jaipur,business,664,4.3
+296,lucky,61,goa,it,123,1.5
+297,lucky,68,jaipur,it,205,4.9
+298,himanshu,68,jaipur,sports,797,1.9
+299,abhishek,70,sikar,business,124,3.3
+300,abhi,74,sikar,full stack developer,153,2.2
+301,yogesh,20,delhi,full stack developer,185,4.0
+302,lokendra,79,ajmer,sports,661,4.7
+303,ravi,85,sikar,teacher,461,2.8
+304,ravi,75,goa,full stack developer,507,1.5
+305,himanshu,41,ajmer,business,209,2.6
+306,yogesh,69,goa,business,643,2.9
+307,himanshu,60,goa,sports,662,1.9
+308,yogesh,27,delhi,sports,179,4.9
+309,abhishek,31,ajmer,sports,815,1.9
+310,himanshu,61,goa,full stack developer,875,2.6
+311,yogesh,37,mumbai,teacher,875,1.7
+312,deepak,43,sikar,teacher,575,4.2
+313,abhishek,68,goa,it,891,2.9
+314,deepu,50,jaipur,business,654,1.7
+315,himanshu,31,jaipur,business,306,4.1
+316,deepak,37,mumbai,teacher,130,2.3
+317,ravi,26,mumbai,full stack developer,515,2.2
+318,lokendra,67,sikar,business,375,1.5
+319,deepak,57,mumbai,it,873,2.1
+320,abhi,82,delhi,sports,506,4.6
+321,abhishek,41,goa,sports,867,1.7
+322,gopal,26,sikar,teacher,675,4.2
+323,ravi,85,mumbai,business,579,2.5
+324,deepak,62,mumbai,full stack developer,740,2.4
+325,lokendra,88,sikar,sports,772,3.2
+326,ravi,23,jaipur,business,467,3.7
+327,deepak,25,delhi,it,732,2.0
+328,ravi,83,sikar,business,630,4.3
+329,lokendra,45,delhi,business,457,4.5
+330,yogesh,67,ajmer,teacher,940,3.0
+331,deepu,88,ajmer,teacher,331,4.7
+332,abhi,88,ajmer,full stack developer,172,4.4
+333,abhi,27,mumbai,teacher,667,2.0
+334,abhishek,43,sikar,teacher,383,1.1
+335,himanshu,89,jaipur,business,167,1.7
+336,deepu,44,delhi,teacher,527,2.0
+337,deepak,24,goa,full stack developer,226,3.2
+338,ravi,41,sikar,it,174,4.5
+339,abhi,78,sikar,business,482,2.9
+340,abhi,37,sikar,business,466,1.0
+341,gopal,84,ajmer,teacher,612,5.0
+342,yogesh,26,sikar,sports,967,2.3
+343,lucky,27,jaipur,it,677,1.6
+344,lucky,76,mumbai,teacher,182,4.0
+345,deepu,76,mumbai,business,406,2.0
+346,ravi,86,delhi,full stack developer,969,4.0
+347,himanshu,36,ajmer,sports,748,1.4
+348,abhishek,54,jaipur,teacher,466,2.0
+349,himanshu,68,mumbai,it,639,3.1
+350,lokendra,45,ajmer,teacher,595,4.7
+351,ravi,80,sikar,teacher,627,4.2
+352,abhishek,55,mumbai,sports,692,4.4
+353,himanshu,19,goa,it,564,3.8
+354,deepak,80,mumbai,it,886,4.1
+355,abhi,63,mumbai,business,880,1.6
+356,himanshu,58,goa,sports,187,2.0
+357,himanshu,36,delhi,full stack developer,252,3.0
+358,deepu,68,jaipur,it,590,3.0
+359,abhi,84,jaipur,sports,720,4.9
+360,gopal,60,mumbai,teacher,269,1.2
+361,ravi,81,sikar,sports,812,1.5
+362,gopal,46,sikar,business,930,2.2
+363,himanshu,75,mumbai,it,591,2.4
+364,deepu,40,jaipur,teacher,752,2.9
+365,lokendra,41,goa,full stack developer,194,4.8
+366,ravi,84,mumbai,business,967,3.1
+367,deepak,82,delhi,business,989,4.2
+368,abhishek,46,sikar,business,746,2.7
+369,deepu,33,ajmer,full stack developer,893,4.3
+370,ravi,44,ajmer,sports,179,1.8
+371,deepu,24,jaipur,business,560,2.7
+372,deepu,72,jaipur,sports,828,3.8
+373,abhi,35,sikar,teacher,479,2.5
+374,lucky,74,jaipur,business,511,2.3
+375,deepu,59,ajmer,business,441,2.7
+376,lokendra,44,sikar,full stack developer,409,3.2
+377,abhi,76,mumbai,full stack developer,403,4.4
+378,deepu,24,goa,it,401,1.5
+379,ravi,82,jaipur,sports,966,3.3
+380,lucky,70,delhi,sports,268,1.4
+381,lucky,20,delhi,teacher,182,1.8
+382,lucky,33,goa,teacher,434,2.7
+383,deepu,43,ajmer,full stack developer,661,3.2
+384,deepak,35,goa,it,716,1.2
+385,abhishek,48,delhi,business,172,2.6
+386,abhishek,38,mumbai,full stack developer,485,3.3
+387,gopal,87,jaipur,sports,962,4.7
+388,abhishek,66,jaipur,business,566,2.9
+389,ravi,65,sikar,it,144,1.0
+390,deepu,51,goa,sports,331,1.6
+391,deepak,75,ajmer,teacher,260,4.7
+392,yogesh,62,jaipur,it,663,3.2
+393,deepu,89,ajmer,sports,626,2.1
+394,lucky,73,mumbai,teacher,829,3.7
+395,abhishek,65,goa,full stack developer,139,1.0
+396,yogesh,45,mumbai,it,902,2.5
+397,lokendra,70,sikar,it,485,1.6
+398,gopal,46,ajmer,business,907,4.0
+399,himanshu,78,sikar,full stack developer,723,2.6
+400,ravi,75,goa,business,709,4.8
+401,deepu,65,sikar,teacher,558,1.8
+402,ravi,19,delhi,business,293,2.9
+403,lokendra,63,delhi,sports,255,4.2
+404,himanshu,44,ajmer,full stack developer,269,4.8
+405,yogesh,62,sikar,it,682,2.3
+406,abhishek,86,jaipur,it,327,3.4
+407,abhi,77,delhi,full stack developer,134,4.2
+408,yogesh,42,sikar,full stack developer,312,2.7
+409,abhi,74,goa,teacher,855,4.6
+410,yogesh,27,goa,sports,433,4.8
+411,abhi,82,delhi,teacher,640,3.3
+412,himanshu,55,goa,full stack developer,171,1.8
+413,abhi,21,sikar,teacher,972,1.9
+414,lucky,21,delhi,it,472,1.2
+415,abhishek,38,delhi,it,153,3.1
+416,yogesh,34,ajmer,sports,689,2.8
+417,abhi,22,sikar,it,473,2.2
+418,abhishek,53,goa,business,880,4.4
+419,lokendra,82,mumbai,full stack developer,997,2.5
+420,lokendra,79,sikar,sports,425,4.9
+421,gopal,69,jaipur,business,934,3.9
+422,lokendra,27,mumbai,sports,808,4.9
+423,yogesh,19,sikar,full stack developer,684,3.0
+424,ravi,52,mumbai,teacher,226,3.3
+425,abhishek,18,mumbai,sports,289,1.9
+426,deepu,22,delhi,it,346,3.4
+427,abhi,30,mumbai,it,533,3.5
+428,lokendra,20,ajmer,business,177,2.4
+429,abhishek,43,goa,sports,538,2.0
+430,abhishek,45,sikar,full stack developer,894,2.0
+431,himanshu,32,jaipur,teacher,804,1.2
+432,lokendra,32,jaipur,business,944,4.5
+433,ravi,20,goa,teacher,484,4.0
+434,abhi,36,goa,it,317,2.1
+435,ravi,41,jaipur,sports,428,3.0
+436,abhi,35,delhi,teacher,901,3.5
+437,deepak,46,sikar,business,828,3.8
+438,abhi,44,delhi,sports,734,2.8
+439,yogesh,39,ajmer,business,747,1.3
+440,deepak,28,ajmer,business,965,4.5
+441,deepu,67,sikar,teacher,589,3.8
+442,himanshu,23,ajmer,it,948,4.3
+443,himanshu,66,jaipur,full stack developer,960,2.7
+444,deepu,30,sikar,sports,509,3.0
+445,gopal,61,delhi,teacher,629,1.5
+446,abhi,48,sikar,it,462,4.7
+447,yogesh,49,ajmer,business,109,4.8
+448,deepu,21,jaipur,business,412,4.4
+449,ravi,58,mumbai,teacher,626,1.6
+450,himanshu,70,sikar,full stack developer,775,4.6
+451,yogesh,47,mumbai,full stack developer,590,2.8
+452,deepak,48,jaipur,teacher,195,3.8
+453,gopal,70,mumbai,business,760,3.2
+454,gopal,82,mumbai,business,398,2.4
+455,ravi,46,sikar,business,478,2.3
+456,himanshu,46,mumbai,teacher,918,3.4
+457,himanshu,44,delhi,full stack developer,936,2.6
+458,himanshu,84,ajmer,sports,465,4.8
+459,yogesh,64,goa,sports,879,1.4
+460,lucky,65,ajmer,teacher,759,1.1
+461,ravi,57,delhi,it,827,2.9
+462,ravi,88,goa,full stack developer,413,1.3
+463,ravi,50,delhi,full stack developer,857,4.2
+464,lucky,45,sikar,teacher,926,4.9
+465,gopal,47,sikar,business,379,4.7
+466,abhi,35,ajmer,sports,418,4.1
+467,gopal,66,goa,teacher,121,2.0
+468,abhishek,57,jaipur,teacher,890,4.0
+469,gopal,70,ajmer,teacher,900,3.1
+470,yogesh,22,ajmer,business,467,1.8
+471,abhi,71,jaipur,business,359,1.8
+472,abhi,35,mumbai,teacher,913,4.8
+473,lokendra,21,sikar,sports,663,1.4
+474,abhishek,46,mumbai,full stack developer,843,4.4
+475,abhishek,43,goa,teacher,323,5.0
+476,abhishek,86,sikar,sports,332,4.0
+477,abhishek,83,ajmer,full stack developer,290,1.2
+478,deepu,24,mumbai,teacher,748,4.5
+479,yogesh,41,jaipur,it,279,4.1
+480,deepak,34,jaipur,full stack developer,239,1.6
+481,ravi,85,ajmer,teacher,989,4.8
+482,ravi,78,ajmer,it,845,2.5
+483,lokendra,19,jaipur,full stack developer,995,3.0
+484,abhishek,75,ajmer,business,181,2.7
+485,himanshu,64,jaipur,full stack developer,394,4.4
+486,lucky,18,sikar,full stack developer,836,3.9
+487,himanshu,34,jaipur,it,518,4.7
+488,lokendra,57,goa,full stack developer,260,2.8
+489,gopal,59,jaipur,it,641,3.7
+490,abhi,40,ajmer,business,881,4.8
+491,himanshu,80,delhi,full stack developer,932,3.6
+492,himanshu,77,goa,business,101,4.3
+493,lokendra,44,mumbai,it,590,3.9
+494,deepak,70,sikar,business,647,2.0
+495,gopal,78,jaipur,it,133,4.1
+496,deepak,45,sikar,teacher,948,3.5
+497,lokendra,46,ajmer,business,428,3.8
+498,abhi,86,delhi,sports,984,2.0
+499,yogesh,51,goa,full stack developer,841,4.8
+500,deepu,83,goa,teacher,197,2.2
+501,lucky,20,jaipur,business,145,2.5
+502,deepu,32,jaipur,sports,662,2.1
+503,gopal,30,jaipur,it,298,1.2
+504,abhi,72,mumbai,it,565,3.5
+505,himanshu,73,mumbai,business,910,4.1
+506,abhi,45,mumbai,sports,722,3.5
+507,abhi,23,sikar,it,102,5.0
+508,himanshu,28,jaipur,teacher,221,2.9
+509,abhi,65,delhi,teacher,778,2.2
+510,abhishek,40,jaipur,full stack developer,629,2.5
+511,lokendra,86,sikar,teacher,345,1.4
+512,abhishek,58,sikar,business,327,2.9
+513,himanshu,62,mumbai,teacher,345,3.0
+514,gopal,20,jaipur,teacher,249,3.8
+515,yogesh,87,sikar,business,623,4.6
+516,ravi,25,mumbai,sports,456,3.7
+517,himanshu,51,delhi,teacher,890,4.1
+518,deepak,65,mumbai,business,507,3.8
+519,abhi,30,goa,teacher,402,2.0
+520,gopal,77,sikar,business,671,4.0
+521,abhishek,51,jaipur,teacher,643,4.1
+522,deepak,33,delhi,full stack developer,434,3.0
+523,deepu,82,delhi,business,766,4.2
+524,lokendra,69,delhi,teacher,820,4.3
+525,abhi,77,mumbai,teacher,485,3.4
+526,yogesh,57,sikar,teacher,824,3.8
+527,himanshu,41,mumbai,teacher,821,3.6
+528,ravi,40,ajmer,full stack developer,630,3.0
+529,yogesh,37,goa,sports,172,3.2
+530,ravi,40,jaipur,it,673,1.8
+531,ravi,36,delhi,teacher,280,2.4
+532,gopal,86,jaipur,it,473,3.1
+533,lokendra,20,mumbai,sports,612,2.4
+534,yogesh,30,mumbai,teacher,103,1.7
+535,yogesh,20,delhi,it,151,1.9
+536,gopal,43,mumbai,full stack developer,589,2.4
+537,deepu,80,mumbai,it,658,2.7
+538,ravi,51,goa,sports,812,2.6
+539,ravi,53,mumbai,business,726,4.0
+540,gopal,27,delhi,full stack developer,488,3.0
+541,gopal,65,goa,full stack developer,825,1.2
+542,himanshu,88,delhi,full stack developer,426,4.8
+543,lucky,88,jaipur,it,494,2.9
+544,himanshu,80,jaipur,sports,108,3.0
+545,himanshu,63,mumbai,teacher,532,1.9
+546,abhishek,22,goa,sports,817,1.2
+547,ravi,43,mumbai,sports,881,2.5
+548,lucky,55,jaipur,teacher,943,1.2
+549,abhi,88,delhi,full stack developer,151,5.0
+550,abhi,51,goa,business,458,3.0
+551,gopal,64,delhi,business,666,3.9
+552,ravi,66,delhi,it,535,1.3
+553,deepak,71,goa,sports,772,4.4
+554,deepak,20,mumbai,teacher,480,3.4
+555,gopal,41,goa,business,808,1.2
+556,gopal,78,goa,it,868,4.0
+557,deepak,38,sikar,business,125,3.1
+558,gopal,47,sikar,teacher,712,1.9
+559,abhishek,54,sikar,full stack developer,399,4.1
+560,abhi,61,ajmer,full stack developer,406,3.4
+561,abhishek,54,delhi,teacher,210,2.9
+562,deepu,70,sikar,sports,867,3.8
+563,himanshu,39,ajmer,business,697,1.1
+564,yogesh,24,mumbai,sports,897,1.0
+565,ravi,80,sikar,teacher,574,2.0
+566,deepak,67,sikar,teacher,224,1.5
+567,gopal,44,mumbai,sports,852,4.2
+568,ravi,69,goa,it,475,4.2
+569,abhi,87,delhi,sports,295,4.8
+570,lucky,51,ajmer,business,610,2.1
+571,deepak,55,sikar,it,331,2.2
+572,gopal,41,delhi,sports,403,1.6
+573,abhishek,87,jaipur,sports,998,3.4
+574,deepak,50,sikar,teacher,221,2.3
+575,himanshu,69,ajmer,full stack developer,319,4.9
+576,lucky,56,sikar,sports,889,4.5
+577,deepak,21,sikar,sports,442,1.6
+578,abhi,36,delhi,sports,997,2.9
+579,himanshu,32,jaipur,teacher,347,3.4
+580,deepu,52,delhi,sports,437,3.1
+581,deepu,35,jaipur,sports,729,2.9
+582,ravi,22,jaipur,full stack developer,832,2.0
+583,abhi,55,mumbai,full stack developer,316,1.9
+584,abhishek,37,jaipur,full stack developer,766,1.9
+585,abhi,19,jaipur,teacher,847,3.4
+586,himanshu,41,goa,business,834,4.2
+587,lucky,44,goa,business,448,3.5
+588,himanshu,22,goa,sports,615,2.4
+589,abhishek,64,delhi,teacher,616,2.5
+590,yogesh,45,mumbai,it,465,3.8
+591,deepu,70,sikar,it,190,3.8
+592,yogesh,49,jaipur,full stack developer,623,4.1
+593,deepak,64,ajmer,full stack developer,879,1.0
+594,ravi,82,ajmer,it,233,4.0
+595,lokendra,84,jaipur,business,507,2.0
+596,lokendra,52,ajmer,teacher,726,4.4
+597,deepu,77,sikar,sports,928,2.2
+598,gopal,22,ajmer,teacher,594,1.6
+599,lucky,32,sikar,full stack developer,350,3.8
+600,abhishek,87,delhi,sports,639,2.4
+601,abhishek,88,sikar,full stack developer,465,4.2
+602,himanshu,40,sikar,sports,899,2.8
+603,abhi,51,jaipur,business,941,2.4
+604,abhi,42,jaipur,it,465,4.9
+605,lokendra,56,delhi,teacher,241,2.5
+606,deepak,62,jaipur,business,619,4.0
+607,lucky,49,sikar,teacher,989,1.5
+608,lokendra,80,goa,teacher,512,4.5
+609,deepak,19,mumbai,teacher,750,4.6
+610,deepu,78,mumbai,it,843,1.6
+611,abhi,89,delhi,full stack developer,272,3.9
+612,yogesh,83,sikar,full stack developer,170,4.3
+613,ravi,37,ajmer,it,629,3.8
+614,himanshu,48,delhi,business,325,1.2
+615,himanshu,43,mumbai,sports,468,2.6
+616,yogesh,64,mumbai,it,203,3.2
+617,yogesh,30,jaipur,it,729,1.5
+618,himanshu,71,delhi,sports,737,2.7
+619,ravi,89,ajmer,it,822,3.0
+620,lucky,48,goa,full stack developer,808,1.8
+621,lokendra,32,mumbai,it,786,4.4
+622,deepu,83,goa,sports,393,1.7
+623,ravi,81,jaipur,sports,904,2.0
+624,lokendra,40,jaipur,it,945,3.7
+625,lokendra,37,ajmer,teacher,519,4.5
+626,deepu,88,sikar,full stack developer,498,3.9
+627,deepu,89,ajmer,teacher,178,1.5
+628,gopal,40,goa,teacher,721,4.6
+629,lucky,85,mumbai,it,338,1.9
+630,lokendra,82,jaipur,sports,266,1.1
+631,abhishek,75,mumbai,teacher,589,2.1
+632,abhi,28,sikar,it,733,1.8
+633,ravi,20,mumbai,business,880,2.7
+634,lokendra,49,goa,full stack developer,114,1.3
+635,abhi,77,delhi,business,938,4.7
+636,himanshu,31,ajmer,teacher,263,3.4
+637,abhi,50,mumbai,full stack developer,546,1.5
+638,gopal,77,mumbai,teacher,133,3.6
+639,lucky,56,sikar,full stack developer,599,1.5
+640,lucky,38,goa,it,874,4.3
+641,lucky,87,ajmer,business,780,5.0
+642,lucky,64,mumbai,business,401,2.3
+643,himanshu,70,goa,business,439,4.5
+644,deepu,25,ajmer,it,643,2.8
+645,himanshu,33,delhi,sports,973,4.5
+646,abhishek,44,sikar,teacher,594,4.9
+647,abhishek,85,jaipur,business,233,4.5
+648,deepu,29,ajmer,teacher,479,3.9
+649,abhishek,58,ajmer,sports,877,3.8
+650,himanshu,18,goa,sports,146,3.8
+651,lucky,42,jaipur,sports,673,1.2
+652,himanshu,69,mumbai,full stack developer,730,3.3
+653,lucky,51,delhi,business,454,2.3
+654,lokendra,62,goa,it,140,1.1
+655,gopal,29,goa,it,583,2.4
+656,ravi,37,ajmer,full stack developer,670,4.4
+657,gopal,48,ajmer,business,840,1.1
+658,gopal,80,goa,full stack developer,817,3.3
+659,deepu,89,delhi,business,702,1.9
+660,deepak,72,jaipur,sports,433,4.5
+661,yogesh,80,mumbai,business,984,4.0
+662,lokendra,21,mumbai,teacher,668,4.5
+663,lucky,19,jaipur,it,969,3.9
+664,ravi,28,goa,it,767,4.3
+665,gopal,55,mumbai,business,572,2.3
+666,yogesh,29,ajmer,sports,446,1.2
+667,abhishek,72,goa,teacher,149,4.9
+668,lucky,48,sikar,it,777,2.3
+669,deepu,51,sikar,business,668,3.9
+670,lucky,38,sikar,full stack developer,996,3.0
+671,himanshu,76,sikar,business,824,1.4
+672,abhishek,73,sikar,business,223,5.0
+673,deepu,67,mumbai,business,944,1.3
+674,lokendra,51,mumbai,sports,963,3.8
+675,lucky,59,sikar,sports,854,4.5
+676,deepu,85,goa,it,114,2.9
+677,deepak,66,mumbai,it,577,3.5
+678,deepak,79,delhi,sports,915,3.3
+679,abhishek,89,mumbai,sports,657,2.2
+680,abhi,18,mumbai,sports,481,2.3
+681,himanshu,67,goa,it,537,4.5
+682,lokendra,76,sikar,it,523,3.3
+683,deepak,21,sikar,it,449,4.5
+684,lucky,54,goa,sports,693,2.4
+685,deepak,30,goa,full stack developer,983,1.6
+686,ravi,58,sikar,business,196,2.1
+687,deepak,19,mumbai,sports,276,1.5
+688,lucky,61,jaipur,business,337,3.5
+689,deepu,68,ajmer,business,760,1.3
+690,ravi,74,sikar,teacher,409,1.2
+691,yogesh,73,goa,it,333,4.3
+692,lucky,51,sikar,business,422,3.1
+693,lucky,42,sikar,full stack developer,513,3.6
+694,gopal,82,goa,sports,473,1.3
+695,deepu,75,goa,full stack developer,869,1.9
+696,abhi,53,goa,business,984,1.6
+697,deepak,80,jaipur,full stack developer,686,3.6
+698,lokendra,61,sikar,full stack developer,933,3.0
+699,ravi,48,sikar,teacher,586,3.1
+700,lucky,65,sikar,it,462,4.3
+701,deepak,31,delhi,sports,692,2.9
+702,abhi,84,mumbai,it,115,4.4
+703,deepak,48,jaipur,business,680,2.9
+704,abhishek,42,goa,full stack developer,646,3.9
+705,deepak,18,delhi,business,404,3.1
+706,abhishek,28,delhi,it,408,5.0
+707,abhi,51,mumbai,sports,760,3.1
+708,deepak,29,goa,sports,288,2.2
+709,yogesh,87,delhi,teacher,406,3.0
+710,gopal,46,goa,full stack developer,109,4.6
+711,yogesh,47,jaipur,teacher,149,2.4
+712,abhi,81,mumbai,business,600,1.5
+713,yogesh,35,mumbai,sports,154,1.4
+714,lucky,46,ajmer,teacher,569,3.6
+715,abhi,81,jaipur,business,199,2.3
+716,yogesh,62,mumbai,it,755,2.4
+717,ravi,61,goa,it,967,2.5
+718,deepu,20,delhi,business,636,2.4
+719,lucky,46,mumbai,sports,788,1.7
+720,lucky,71,jaipur,business,724,3.7
+721,yogesh,82,mumbai,business,903,4.9
+722,lokendra,25,ajmer,it,858,3.8
+723,abhishek,41,jaipur,full stack developer,847,1.4
+724,yogesh,62,jaipur,sports,405,2.4
+725,lucky,19,ajmer,teacher,457,2.3
+726,gopal,30,jaipur,business,475,4.0
+727,yogesh,70,mumbai,it,495,2.2
+728,abhishek,78,jaipur,it,228,3.5
+729,abhishek,81,goa,it,188,2.0
+730,himanshu,37,delhi,business,383,3.4
+731,yogesh,26,ajmer,it,127,2.0
+732,lucky,70,ajmer,it,462,1.2
+733,abhi,56,ajmer,it,882,3.2
+734,ravi,28,goa,teacher,287,4.8
+735,yogesh,88,sikar,it,361,2.2
+736,yogesh,53,jaipur,business,830,3.0
+737,lokendra,47,jaipur,it,921,2.8
+738,lucky,86,sikar,it,861,4.2
+739,himanshu,87,ajmer,full stack developer,306,4.9
+740,yogesh,85,delhi,sports,632,2.4
+741,lucky,84,sikar,teacher,211,3.0
+742,abhi,19,sikar,business,962,4.6
+743,deepu,84,ajmer,full stack developer,421,2.2
+744,yogesh,76,delhi,business,153,3.3
+745,deepu,33,delhi,teacher,847,3.9
+746,ravi,85,mumbai,sports,176,3.1
+747,abhishek,74,goa,teacher,871,3.8
+748,yogesh,54,goa,teacher,559,4.0
+749,ravi,32,ajmer,teacher,406,4.1
+750,yogesh,62,goa,teacher,256,4.5
+751,himanshu,59,ajmer,teacher,546,2.6
+752,lokendra,46,ajmer,sports,175,3.9
+753,lucky,66,jaipur,it,920,3.2
+754,yogesh,61,ajmer,teacher,706,3.3
+755,abhi,40,delhi,full stack developer,354,1.7
+756,deepak,38,ajmer,full stack developer,580,2.5
+757,deepu,74,mumbai,it,468,2.0
+758,lokendra,32,sikar,teacher,558,4.8
+759,himanshu,51,ajmer,teacher,173,1.9
+760,lokendra,79,sikar,full stack developer,269,4.4
+761,himanshu,53,jaipur,full stack developer,887,1.6
+762,gopal,29,ajmer,it,107,3.2
+763,himanshu,28,delhi,teacher,130,1.6
+764,deepak,89,goa,teacher,292,4.3
+765,lucky,68,mumbai,teacher,915,4.8
+766,gopal,23,jaipur,it,791,1.4
+767,lucky,57,ajmer,sports,441,4.6
+768,abhishek,85,mumbai,business,926,2.8
+769,gopal,68,ajmer,full stack developer,645,2.8
+770,himanshu,32,goa,teacher,403,4.6
+771,ravi,61,sikar,sports,322,5.0
+772,himanshu,67,jaipur,sports,575,4.4
+773,yogesh,39,goa,full stack developer,918,4.4
+774,deepu,59,delhi,teacher,967,2.5
+775,lokendra,63,jaipur,full stack developer,699,4.2
+776,deepu,26,jaipur,teacher,862,1.8
+777,abhishek,83,jaipur,teacher,615,4.8
+778,himanshu,58,sikar,sports,765,1.6
+779,gopal,36,delhi,full stack developer,636,3.8
+780,gopal,49,jaipur,teacher,797,3.5
+781,himanshu,51,jaipur,it,855,4.7
+782,yogesh,89,sikar,full stack developer,741,1.3
+783,deepak,76,mumbai,business,949,4.3
+784,yogesh,20,mumbai,full stack developer,736,1.4
+785,lokendra,21,ajmer,sports,206,3.4
+786,gopal,76,mumbai,full stack developer,481,2.3
+787,lokendra,63,sikar,teacher,438,1.7
+788,yogesh,57,delhi,full stack developer,967,3.5
+789,abhi,81,ajmer,business,852,1.2
+790,deepak,24,sikar,it,382,4.0
+791,lucky,54,sikar,sports,672,5.0
+792,lucky,77,sikar,sports,113,4.6
+793,abhishek,47,goa,teacher,220,2.1
+794,gopal,68,sikar,business,328,1.8
+795,deepu,60,jaipur,teacher,704,2.6
+796,deepak,49,sikar,business,930,4.5
+797,abhi,39,sikar,sports,953,2.9
+798,gopal,71,sikar,full stack developer,449,4.2
+799,ravi,54,goa,it,773,1.2
+800,lokendra,41,mumbai,full stack developer,730,4.0
+801,himanshu,89,goa,sports,220,1.3
+802,yogesh,62,goa,sports,102,3.0
+803,deepu,78,goa,full stack developer,135,4.5
+804,lokendra,58,ajmer,sports,642,4.8
+805,lucky,64,mumbai,sports,384,2.5
+806,deepak,54,delhi,it,986,2.5
+807,lokendra,60,goa,teacher,801,3.9
+808,lokendra,21,mumbai,full stack developer,804,3.8
+809,abhi,44,jaipur,sports,913,2.8
+810,gopal,34,ajmer,business,462,2.3
+811,deepu,24,jaipur,it,607,4.4
+812,himanshu,69,ajmer,business,705,2.1
+813,lokendra,36,mumbai,teacher,800,3.5
+814,deepu,69,jaipur,it,166,3.9
+815,abhi,55,goa,full stack developer,345,3.2
+816,abhishek,79,sikar,business,503,2.9
+817,deepak,30,jaipur,business,197,3.0
+818,himanshu,82,jaipur,sports,646,1.6
+819,lucky,42,jaipur,full stack developer,653,5.0
+820,deepu,82,sikar,it,626,3.4
+821,lokendra,73,mumbai,teacher,501,3.9
+822,lucky,43,mumbai,full stack developer,129,4.7
+823,deepak,85,delhi,full stack developer,558,1.8
+824,abhi,42,sikar,it,675,4.3
+825,himanshu,73,jaipur,sports,850,3.7
+826,lokendra,88,jaipur,teacher,118,1.8
+827,yogesh,30,goa,full stack developer,102,1.2
+828,gopal,43,sikar,business,166,3.1
+829,himanshu,64,sikar,it,436,1.1
+830,abhishek,79,goa,sports,742,4.4
+831,abhishek,76,goa,it,154,4.7
+832,deepak,71,sikar,sports,900,3.4
+833,yogesh,39,delhi,sports,586,3.8
+834,deepak,42,goa,business,314,2.3
+835,ravi,75,goa,it,319,2.1
+836,yogesh,39,ajmer,teacher,689,2.3
+837,lokendra,62,ajmer,sports,929,3.3
+838,lokendra,29,mumbai,business,465,4.0
+839,abhi,58,goa,sports,618,1.5
+840,himanshu,38,delhi,full stack developer,340,3.5
+841,deepu,20,jaipur,sports,817,3.6
+842,deepak,47,jaipur,it,423,2.5
+843,yogesh,57,delhi,sports,849,1.8
+844,himanshu,30,mumbai,teacher,548,4.8
+845,himanshu,82,mumbai,full stack developer,735,3.3
+846,ravi,46,delhi,teacher,870,4.4
+847,himanshu,68,goa,business,398,1.1
+848,himanshu,51,goa,sports,942,3.6
+849,abhi,76,sikar,teacher,574,3.6
+850,deepu,42,delhi,teacher,462,3.9
+851,lokendra,64,sikar,sports,834,3.2
+852,deepu,47,delhi,full stack developer,187,3.2
+853,deepak,76,delhi,it,265,1.6
+854,abhi,50,goa,full stack developer,954,1.2
+855,deepu,83,ajmer,teacher,753,3.7
+856,lucky,60,mumbai,teacher,831,3.3
+857,lokendra,66,ajmer,teacher,671,1.4
+858,lucky,83,delhi,teacher,722,1.7
+859,abhishek,25,sikar,teacher,432,4.9
+860,deepu,35,jaipur,teacher,193,2.4
+861,gopal,87,delhi,full stack developer,232,4.4
+862,himanshu,63,jaipur,sports,138,1.2
+863,abhi,84,delhi,it,847,2.7
+864,deepak,76,sikar,full stack developer,442,2.7
+865,deepu,35,ajmer,business,496,4.2
+866,abhi,78,goa,teacher,624,3.2
+867,lokendra,57,delhi,it,393,4.2
+868,gopal,58,delhi,business,810,4.0
+869,deepu,28,mumbai,full stack developer,551,2.6
+870,deepu,31,ajmer,business,116,2.9
+871,abhi,43,jaipur,full stack developer,230,3.3
+872,ravi,20,mumbai,full stack developer,273,1.8
+873,lokendra,68,delhi,sports,852,2.3
+874,deepu,63,sikar,it,789,3.8
+875,abhi,64,ajmer,full stack developer,485,1.1
+876,gopal,83,delhi,it,687,4.6
+877,ravi,78,ajmer,it,796,2.8
+878,ravi,26,goa,teacher,584,2.5
+879,yogesh,70,goa,business,257,1.4
+880,deepak,82,goa,it,198,4.2
+881,lucky,66,mumbai,it,539,3.7
+882,abhishek,86,mumbai,teacher,977,1.9
+883,abhishek,54,sikar,sports,302,4.3
+884,abhishek,77,jaipur,it,703,4.8
+885,lokendra,75,ajmer,business,319,2.7
+886,abhi,89,sikar,full stack developer,375,3.0
+887,deepu,76,goa,sports,370,1.5
+888,abhishek,35,goa,full stack developer,133,4.3
+889,ravi,71,goa,sports,599,4.5
+890,lokendra,88,ajmer,business,912,1.3
+891,himanshu,36,sikar,it,242,1.7
+892,deepak,21,goa,teacher,838,2.9
+893,abhishek,64,sikar,business,146,2.8
+894,lucky,29,mumbai,business,307,3.4
+895,abhi,37,sikar,full stack developer,267,4.5
+896,lucky,32,mumbai,full stack developer,118,4.3
+897,yogesh,50,mumbai,full stack developer,664,3.7
+898,lokendra,73,jaipur,it,718,1.9
+899,lucky,81,jaipur,teacher,662,3.5
+900,himanshu,46,mumbai,full stack developer,296,3.8
+901,gopal,60,mumbai,it,877,3.8
+902,deepu,65,sikar,teacher,508,4.6
+903,lucky,72,sikar,business,426,2.4
+904,gopal,53,sikar,it,623,1.8
+905,lokendra,87,sikar,teacher,490,1.4
+906,lokendra,79,goa,teacher,641,1.5
+907,deepu,74,sikar,teacher,177,3.6
+908,lokendra,88,goa,business,787,1.6
+909,abhi,29,sikar,full stack developer,181,1.9
+910,deepak,28,jaipur,sports,658,4.6
+911,lokendra,46,delhi,it,644,2.0
+912,ravi,51,mumbai,it,508,2.8
+913,ravi,40,goa,it,501,2.4
+914,himanshu,74,mumbai,business,380,3.9
+915,deepak,20,delhi,teacher,200,2.4
+916,abhishek,57,jaipur,teacher,404,1.2
+917,himanshu,79,mumbai,business,221,2.5
+918,yogesh,54,delhi,full stack developer,875,3.6
+919,ravi,82,sikar,full stack developer,352,2.0
+920,abhishek,61,jaipur,sports,503,4.8
+921,abhi,66,goa,teacher,252,4.1
+922,himanshu,40,jaipur,full stack developer,358,2.4
+923,yogesh,66,goa,teacher,586,4.6
+924,lokendra,83,goa,business,203,3.8
+925,deepu,53,jaipur,sports,446,4.7
+926,deepu,80,goa,business,937,3.8
+927,abhi,78,jaipur,it,671,4.8
+928,abhi,67,jaipur,teacher,569,3.1
+929,abhishek,26,mumbai,business,470,1.6
+930,deepu,24,goa,business,297,2.6
+931,abhishek,56,ajmer,teacher,793,2.0
+932,yogesh,73,delhi,it,490,3.4
+933,himanshu,45,goa,business,699,3.0
+934,gopal,22,mumbai,full stack developer,339,2.5
+935,lucky,31,jaipur,teacher,752,2.2
+936,ravi,43,jaipur,business,446,3.8
+937,deepak,28,sikar,sports,535,4.4
+938,deepu,87,delhi,business,308,1.3
+939,lokendra,24,goa,teacher,111,4.7
+940,abhi,61,delhi,full stack developer,404,2.2
+941,lokendra,25,mumbai,sports,113,2.0
+942,deepak,62,mumbai,sports,569,4.4
+943,lokendra,75,jaipur,full stack developer,125,4.7
+944,abhishek,80,sikar,full stack developer,721,1.4
+945,abhi,72,jaipur,teacher,378,2.2
+946,gopal,62,jaipur,teacher,644,1.6
+947,deepu,83,goa,teacher,670,2.0
+948,yogesh,89,delhi,teacher,334,4.2
+949,abhi,81,ajmer,teacher,615,3.5
+950,deepak,27,jaipur,full stack developer,372,3.3
+951,lucky,30,mumbai,teacher,716,2.5
+952,deepu,84,ajmer,teacher,508,4.6
+953,abhi,32,ajmer,business,627,4.0
+954,lokendra,61,ajmer,it,403,1.2
+955,deepak,58,sikar,it,846,3.8
+956,gopal,66,ajmer,it,354,1.8
+957,lucky,83,delhi,business,279,3.6
+958,ravi,41,sikar,sports,243,4.8
+959,lokendra,31,sikar,sports,109,4.0
+960,abhishek,53,mumbai,teacher,423,1.2
+961,deepu,53,mumbai,teacher,323,3.5
+962,ravi,49,sikar,sports,895,3.5
+963,himanshu,69,mumbai,business,822,4.2
+964,abhishek,60,sikar,it,958,1.4
+965,lokendra,36,mumbai,it,180,4.0
+966,abhi,45,delhi,full stack developer,139,2.7
+967,ravi,61,sikar,full stack developer,844,1.8
+968,deepak,21,sikar,sports,482,3.4
+969,gopal,40,delhi,full stack developer,741,2.8
+970,abhi,64,ajmer,teacher,169,4.2
+971,yogesh,23,delhi,business,478,1.3
+972,deepak,42,goa,teacher,263,1.6
+973,lucky,57,ajmer,business,632,4.5
+974,lucky,72,sikar,sports,393,4.6
+975,gopal,22,sikar,teacher,884,1.3
+976,himanshu,74,goa,sports,428,3.7
+977,abhishek,74,mumbai,it,675,4.9
+978,deepak,22,sikar,business,784,1.4
+979,lucky,29,sikar,sports,822,3.8
+980,deepu,48,delhi,teacher,558,3.1
+981,deepu,41,sikar,full stack developer,784,3.1
+982,abhi,69,goa,full stack developer,571,2.4
+983,ravi,51,goa,business,428,4.9
+984,yogesh,64,delhi,full stack developer,769,4.5
+985,abhi,31,mumbai,business,268,4.5
+986,ravi,87,ajmer,business,379,4.2
+987,lokendra,37,delhi,business,406,2.0
+988,gopal,62,goa,teacher,595,3.4
+989,deepu,86,sikar,sports,155,3.3
+990,deepu,45,mumbai,business,759,2.9
+991,ravi,24,sikar,teacher,334,1.9
+992,yogesh,28,sikar,sports,624,2.2
+993,abhishek,85,ajmer,sports,453,4.8
+994,lucky,39,ajmer,teacher,812,2.1
+995,lucky,88,ajmer,it,643,3.0
+996,abhishek,68,sikar,business,322,2.8
+997,abhishek,24,ajmer,business,370,1.6
+998,deepu,53,sikar,full stack developer,696,4.7
+999,abhi,33,mumbai,business,657,2.8
+1000,yogesh,59,goa,teacher,760,1.4

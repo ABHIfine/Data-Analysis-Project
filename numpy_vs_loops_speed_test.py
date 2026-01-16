@@ -1,10 +1,12 @@
 import numpy as np 
 import pandas as pd
+import time
 
 name_list = ["abhi", "ravi", "abhishek", "deepu","deepak","gopal","lokendra","yogesh","himanshu","lucky"]
 city_list =["jaipur","delhi","mumbai","goa","ajmer","sikar"]
 Category_list = ["it","business","sports","teacher","full stack developer"]
 
+start =time.time()
 n = 1000
 
 data = {
@@ -18,7 +20,7 @@ data = {
 }
 
 df = pd.DataFrame(data)
-
+end= time.time()
 df.to_csv("fast.csv", index=False)
 print("file 'fast.csv' ban gayi hai")
-print (df)
+print (df,"how much time taken",end-start)
