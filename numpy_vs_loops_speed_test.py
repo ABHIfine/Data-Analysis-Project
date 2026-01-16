@@ -14,5 +14,11 @@ data = {
     'City': np.random.choice(city_list, size=n),
     'Category' : np.random.choice(Category_list, size=n),
     'Amount': np.random.randint(100,1000, size=n),
-    'Rating': (np.random.uniform(1,5, size=n),1)
+    'Rating': np.round(np.random.uniform(1,5, size=n),1)
 }
+
+df = pd.DataFrame(data)
+
+a = df.to_csv("fast.csv")
+print("file 'fast.csv' ban gayi hai")
+print (a)
