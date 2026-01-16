@@ -7,7 +7,7 @@ city_list =["jaipur","delhi","mumbai","goa","ajmer","sikar"]
 Category_list = ["it","business","sports","teacher","full stack developer"]
 
 start =time.time()
-n = 1000
+n = 1000000
 
 data = {
     'Customer-id': range(1, n+1),
@@ -22,5 +22,8 @@ data = {
 df = pd.DataFrame(data)
 end= time.time()
 df.to_csv("fast.csv", index=False)
-print("file 'fast.csv' ban gayi hai")
-print (df,"how much time taken",end-start)
+
+print("----------RESULT--------------")
+print(f"file 'fast.csv' ban gayi hai with {n} rows")
+print (f"how much time taken {end-start:.5} second main")
+print("-------------END---------------")
