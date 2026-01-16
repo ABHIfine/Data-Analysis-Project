@@ -19,6 +19,6 @@ data = {
 
 df = pd.DataFrame(data)
 
-a = df.to_csv("fast.csv")
+a = df.to_csv("fast.csv", index=False)
 print("file 'fast.csv' ban gayi hai")
 print (a)
